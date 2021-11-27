@@ -1,14 +1,12 @@
 # Tópicos
 
-[Manual De Marca](#Manual-de-Marca)
-
 [Vitrine De Projetos](#Vitrine-de-Projetos)
 
 [Thumbnails](#Thumbnails)
 
 [Criar Logos](#Criação-de-Logos)
 
-[A Arte De Encantar Cliente](#A-arte-de-encantar-clientes)
+[A Arte De Encantar Cliente](#A-Arte-de-Encantar-Clientes)
 
 [Mockup](#Mockup)
 
@@ -24,65 +22,112 @@
 
 [Gigantografia](#Gigantografia)
 
-# Gigantografia
+[Manual De Marca](#Manual-de-Marca)
 
-A partir de R$120 em baner 80 por 1
-Até 5 projetos mensais
+# Vitrine de Projetos
 
-**Qual é a medida do banner?**
-**Onde ele será aplicado?**
-**Logotipo, informação do banner (resumido)**
+[Behance](https://www.behance.net/)
+### Behance
+- Trasmitir video ao vivo
+- Currículo 
+- Usar tags
+- Autentificador NFTs
 
-# Pattern
+**NFT** - Artes autenticadas 
 
-Oque é pattern - simbolos que se repetem
+App myfont - detecta a fonte através da câmera do celular
 
-### Tipos de Patterm
-- Patterm em estampas
-- Pattern em branding
-- Pattern animada
+Preciso me inspirar nas referências e não plagiar, posso utilizar para isso o painel semântico 
 
-### Como cobrar
-- Valor baseado no que estou produzindo
-- Não cobrar pelo padrão
-- Eu sou artista se quiser trabalho amador procura outro
-- Pagar pela prioridade é perigoso
+### Perfils de inspiração do behanced
+Elijah Andrade
 
-### Tamanho
-3:1
-### Impressão 
-3cm - 3 x 10 - 30cm
-1cm - 1 x 10 - 10cm
+# Thumbnails
 
-https://camisadimona.com.br/
-Dimona stampa para tudo
+### Precificação
 
-# Criação de capas criativas
+#### Exemplo de valores r$180 cada arte
 
-### Ferramentas do Illustrator
-- Malha
-- Distorção de envelope
-- Espaço da margem 
+8 artes por semana a r$180 = R$ 1.440
+Faturamento mês =  ~ R$ 5.760
 
-Capa tem q ser condizente com o conteúdo 
+### Criar um texto com contorno
+1. Janela -> Aparência 
+2. Criar contorno
+3. Fx
+4. Estilizar - brilho interno e externo
+5. 3D
+6. Deformar
 
-### Tipos de capas
-Capa para livro 
-Post criativovp
-Capa para e-book 
+# Criação de Logos
 
-### Preçificação
+Na maioria das vezes **250px** (largura) x **100px** (altura) são as dimensões ideias para uma página web
 
-- A partir de R$150 por design de capa 
-- Até 10 projetos por mês 
+Para criar um logo pode utilizar as dimensões **36,86** Centímetros de largura x **26,81** Centímetros de altura
 
-### Tamanho
-15cmx25cn
+**Logofolio** - portfólio de logo
 
-### Inspirações para capa de livro 
-- Behanced
-- Pinterest
-- Unsplash
+
+# A Arte de Encantar Clientes
+
+O seu projeto está pronto, vamos marcar uma reunião para apresentar.
+
+Objeto inteligente
+Livetrasing
+
+### Quanto posso ganhar com 
+simulações 
+Aplicações em marca
+Logofolio
+
+### Marketing simples
+Postar no stores do instagram e colocar hashtags
+Usar GTV, Rels - pequenos segundos de vídeo 
+
+Para meios digitais é até 150dpi de resolução, de preferência 72dpia
+
+# Mockup
+
+Site para mockups:
+Free-mockup.com
+Mockupword.co
+
+# Precificação
+
+Preciso ver o custo da hora aula
+
+### Mercados
+- Freelance - não é vinculado a empresa e pega trabalho por conta própria
+
+### Ferramentas:
+- [99freelas.com.br/app-calculadorafreelancer](https://www.99freelas.com.br/apps/calculadora-freelancer)
+Ajuda a calcular a hr trabalhada
+
+### Adegraf:
+- Tabela referencial de valores 2017/2018
+Associação dos design gráfico do Distrito Federal 
+- http://www.adegraf.org.br/wp-content/uploads/2018/12/Tabela-ADEGRAF-2021-2022-WEB-MAR2021-1.pdf
+
+### Como promover o meu trabalho
+- Fazer parcerias
+- Falar pra indicar depois que fizer o trabalho
+
+# Flyer Digital
+
+### Tamanho de um flyer
+15cm×25cm
+
+**Habilitar sangria**
+### Tamanho da Sangria
+- 0,3 - 0,3 - 0,3 - 0,3
+Ou 0,5 em cada
+
+**Gabarito** é um arquivo predefinido pela própria gráfica 
+
+Salvar cópia - pdf
+Marca e sangrias
+Marcas
+Marcas de aparagem
 
 # Fechamento de Arquivo
 
@@ -125,48 +170,65 @@ Ou 0,5 em cada
 3. Marcas
 4. Marcas de aparagem
 
-# Flyer Digital
+# Criação de capas criativas
 
-### Tamanho de um flyer
-15cm×25cm
+### Ferramentas do Illustrator
+- Malha
+- Distorção de envelope
+- Espaço da margem 
 
-**Habilitar sangria**
-### Tamanho da Sangria
-- 0,3 - 0,3 - 0,3 - 0,3
-Ou 0,5 em cada
+Capa tem q ser condizente com o conteúdo 
 
-**Gabarito** é um arquivo predefinido pela própria gráfica 
+### Tipos de capas
+Capa para livro 
+Post criativovp
+Capa para e-book 
 
-Salvar cópia - pdf
-Marca e sangrias
-Marcas
-Marcas de aparagem
+### Preçificação
 
-# Precificação
+- A partir de R$150 por design de capa 
+- Até 10 projetos por mês 
 
-Preciso ver o custo da hora aula
+### Tamanho
+15cmx25cn
 
-### Mercados
-- Freelance - não é vinculado a empresa e pega trabalho por conta própria
+### Inspirações para capa de livro 
+- Behanced
+- Pinterest
+- Unsplash
 
-### Ferramentas:
-- [99freelas.com.br/app-calculadorafreelancer](https://www.99freelas.com.br/apps/calculadora-freelancer)
-Ajuda a calcular a hr trabalhada
+# Pattern
 
-### Adegraf:
-- Tabela referencial de valores 2017/2018
-Associação dos design gráfico do Distrito Federal 
-- http://www.adegraf.org.br/wp-content/uploads/2018/12/Tabela-ADEGRAF-2021-2022-WEB-MAR2021-1.pdf
+Oque é pattern - simbolos que se repetem
 
+### Tipos de Patterm
+- Patterm em estampas
+- Pattern em branding
+- Pattern animada
 
-### Como promover o meu trabalho
-- Fazer parcerias
-- Falar pra indicar depois que fizer o trabalho
+### Como cobrar
+- Valor baseado no que estou produzindo
+- Não cobrar pelo padrão
+- Eu sou artista se quiser trabalho amador procura outro
+- Pagar pela prioridade é perigoso
 
-# Mockup
+### Tamanho
+3:1
+### Impressão 
+3cm - 3 x 10 - 30cm
+1cm - 1 x 10 - 10cm
 
-Site para mockups:
-Free-mockup.com
-Mockupword.co
+https://camisadimona.com.br/
+Dimona stampa para tudo
+
+# Gigantografia
+
+A partir de R$120 em baner 80 por 1
+Até 5 projetos mensais
+
+**Qual é a medida do banner?**
+**Onde ele será aplicado?**
+**Logotipo, informação do banner (resumido)**
+
 
 # Manual de Marca

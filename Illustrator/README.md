@@ -1,17 +1,28 @@
 # Tópicos
 
-![ManualDeMarca](#Manual-de-Marca)
-![VitrineDeProjetos](#Vitrine-de-Projetos)
-![Thumbnails](#Thumbnails)
-![CriarLogos](#Criação-de-Logos)
-![AArteDeEncantarCliente](#A-arte-de-encantar-clientes)
-![Mockup](#Mockup)
-![Precificação](#Precificação)
-![FlyerDigital](#Flyer-Digital)
-![FechamentoDeArquivo](#Fechamento-de-Arquivo)
-![CriaçãoDeCapasCriativas](#Criação-de-capas-criativas)
-![Pattern](#Pattern)
-![Gigantografia](#Gigantografia)
+[ManualDeMarca](#Manual-de-Marca)
+
+[VitrineDeProjetos](#Vitrine-de-Projetos)
+
+[Thumbnails](#Thumbnails)
+
+[CriarLogos](#Criação-de-Logos)
+
+[AArteDeEncantarCliente](#A-arte-de-encantar-clientes)
+
+[Mockup](#Mockup)
+
+[Precificação](#Precificação)
+
+[FlyerDigital](#Flyer-Digital)
+
+[FechamentoDeArquivo](#Fechamento-de-Arquivo)
+
+[CriaçãoDeCapasCriativas](#Criação-de-capas-criativas)
+
+[Pattern](#Pattern)
+
+[Gigantografia](#Gigantografia)
 
 # Gigantografia
 

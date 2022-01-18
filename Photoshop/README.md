@@ -307,3 +307,7 @@ Ponto principal - Imagem
 Ponto secundário - Texto
 
 ![RegraDosTerços](img/RegraDosTercos.png)
+
+# Ganhar dinheiro com fotografia
+
+![DinheiroComFoto](img/DinheiroComFoto.jpg)

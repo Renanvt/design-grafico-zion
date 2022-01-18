@@ -158,3 +158,46 @@ Pixabay
 Site pra mockup - freebeez
 
 ![MapaDeMesclagem](img/mapa_de_mesclagem.jpg)
+
+# Tipografia
+
+**font duo** - Combinacao de fonte serifada com sans serif
+
+**Lettering design** - combinação de tipografias feito a mão ou digital
+
+Composicao de social media
+
+**Fotografia de shelkboard** - foto de bebe recém nascico
+
+A partir de R$12 por composição 
+
+**Myfont** - site pago
+**Dafont**
+**Fontfree** ou **befonts.com**
+**Envatoelements** - site pago
+
+# Criando grafismos com pincéis
+
+### Utilizado em: 
+- Padrões
+- Destaque de elementos
+- Pós produção de fotografia
+
+Aprenda o básico e entenda quanto poderá ganhar com
+- Pintura digitial
+- Maquiagem digital
+- Tratamento de fotografia
+
+1. Escolher e configurar o pincel pro meu destaque (escolher a cor do meu pincel)
+   
+2. Pegar a ferramenta caneta e criar uma forma
+   
+3. Criar uma nova camada pro pincel. O pincel precisa estar em uma nova camada
+   
+4. Clickar com o direito com a caneta e **Traçar Demarcador**
+   
+5. Ferramenta pincel, simular pressão 
+   
+6. Ir na aba demarcadores e excluo o demarcador criado
+
+![CardápioFrente](img/fulano-projeto-cardapio.jpg)

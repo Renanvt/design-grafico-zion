@@ -58,6 +58,14 @@ Estudo
 Prática 
 Aplicação 
 
+![ManipulandoImagens](img/ManipulandoImagens.jpg)
+
+![ManipulandoImagens2](img/ManipulandoImagens2.jpg)
+
+### Perfil de artista no Behance
+
+![BehanceProfile](img/BehanceProfile.jpg)
+
 ### Demarcar um objeto
 
 1. Criar uma demarcação com a caneta em volta do objeto
@@ -104,6 +112,14 @@ Para colocar uma foto sem danifica-la arrasto ela e dimensiono segurando o **alt
 4. Cria um laço no meio e aplica uma máscara para ver o antes e depois
 
 Luminescencia - intensificacao da luz, suaviza a textura
+
+![CameraRaw](img/CameraRaw.jpg)
+
+![CameraRaw2](img/CameraRaw2.png)
+
+![CameraRaw3](img/CameraRaw3.jpg)
+
+![CameraRaw4](img/CameraRaw4.jpg)
 
 # Máscara de Camada
 
@@ -176,6 +192,14 @@ A partir de R$12 por composição
 **Fontfree** ou **befonts.com**
 **Envatoelements** - site pago
 
+### Melhores fontes sans-serif
+
+Montserrat
+Roboto
+Gotham black
+Opens Sans
+Helvetica
+
 # Criando grafismos com pincéis
 
 ### Utilizado em: 
@@ -217,14 +241,45 @@ Tamanho 906,64 mm x 508 mm
 
 ![CapaYoutube](img/CapaYoutube.PNG)
 
-# Iluminação
+# Tipos de Iluminação
+
+Existem dois tipos principais de luz: **Natural** e **Artificial**
+
+A **Luz natural**, é toda iluminação proveniente da natureza, como a **luz do sol** ou **da lua**, por exemplo
+
+A **Luz artificial** é obtida através de **equipamentos** e **acessórios** para fotografia
+
+### LED / Luz Suave
+
+**LED** significa **diodos emissores de luz**. A partir do LED é possível usar:
+
+**SoftBox**: **Luz suave** (É aquela que gera sombras sem contornos nítidos e não é possível dizer exatamente em que ponto essa sombra começa ou termina)### Luz Recorte
+
+![SoftBox](img/SoftBox.PNG)
+
+### Luz Refletida / Luz Dura
+
+**Umbrella**: **Luz Refletida** (Amplia a capacidade do flash, ele rebate as luzes e a projeta para pontos escuros com delicadeza e neutralidade).
+
+**Ponto**: **Luz Dura** (Ela incide diretamente sobre o objeto fotografado, causando uma sombra bem marcada e nítida).
+
+![LuzRefletidaXLuzDura](img/LuzRefletidaXLuzDura.PNG)
+
+### Outros tipo de luzes
+
+![TiposDeLuz.jpg](img/TiposDeLuz.jpg)
+
+### Contra Luz
+### Recorte 3/4
+
 
 Natural n usa mt equipamento de iluminacao
 Studio precisa de uma iluminação artificial
 
 Evitar desfocar a imagem
 
-# Regra dos terços
+
+# Enquadramento de Imagens - Regra dos terços 
 
 Cobrar por hora
 Preparar equipamento, ver o clima, verificar com antecedência 

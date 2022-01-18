@@ -28,4 +28,4 @@ O fluxo trabalha na textura do pincel
 
 Para colocar uma foto sem danifica-la arrasto ela e dimensiono segurando o alt
 
-![IntegrandoElementos](./img/integrandoElementos.jpg)
+![IntegrandoElementos](img/IntegrandoElementos.jpg)

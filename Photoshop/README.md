@@ -10,6 +10,24 @@
 
 [Máscara de Camada](#máscara-de-camada)
 
+[Grafismos Com Pincéis](#criando-grafismos-com-pincéis)
+
+[Aplicar Máscara de Recorte](#aplicar-máscara-de-recorte)
+
+[Capa pra youtube](#capa-pra-youtube)
+
+[Demarcar um objeto](#demarcar-um-objeto)
+
+[Criar um Mockup](#criar-um-mockup)
+
+[Tipografia](#tipografia)
+
+[Thumbnails Photoshop](#thumbnail-photoshop)
+
+[Tipos de Iluminação](#tipos-de-iluminação)
+
+[Enquadramento de Imagens](#enquadramento-de-imagens---regra-dos-terços)
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 

@@ -216,3 +216,39 @@ Tamanho 1280 x 720
 Tamanho 906,64 mm x 508 mm
 
 ![CapaYoutube](img/CapaYoutube.PNG)
+
+# Iluminação
+
+Natural n usa mt equipamento de iluminacao
+Studio precisa de uma iluminação artificial
+
+Evitar desfocar a imagem
+
+# Regra dos terços
+
+Cobrar por hora
+Preparar equipamento, ver o clima, verificar com antecedência 
+
+Tamanho de social media
+**1080 x 1350**
+Banco de imagens
+**Pexels.com** 
+
+### Como fazer a regra dos terços no Photoshop
+
+1. Visualizar
+   
+2. Novo layout de guias
+   
+3. Colunas - 3
+   
+4. Linhas - 3
+   
+5. Medianiz 0
+   
+6. Visualizar ->Bloquear guias
+
+Ponto principal - Imagem
+Ponto secundário - Texto
+
+![RegraDosTerços](img/RegraDosTercos.png)

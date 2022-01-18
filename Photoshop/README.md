@@ -115,7 +115,7 @@ Luminescencia - intensificacao da luz, suaviza a textura
 
 ![CameraRaw](img/CameraRaw.jpg)
 
-![CameraRaw2](img/CameraRaw2.png)
+![CameraRaw2](img/CameraRaw2.PNG)
 
 ![CameraRaw3](img/CameraRaw3.jpg)
 
@@ -307,6 +307,17 @@ Ponto principal - Imagem
 Ponto secundário - Texto
 
 ![RegraDosTerços](img/RegraDosTercos.png)
+
+![RegraDosTerços2](img/RegraDosTercos2.jpg)
+
+![RegraDosTerços3](img/RegraDosTercos3.jpg)
+
+![RegraDosTerços4](img/RegraDosTercos4.jpg)
+
+![RegraDosTerços5](img/RegraDosTercos5.jpg)
+
+![RegraDosTerços6](img/RegraDosTercos6.jpg)
+
 
 # Ganhar dinheiro com fotografia
 

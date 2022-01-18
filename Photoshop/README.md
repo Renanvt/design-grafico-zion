@@ -201,3 +201,18 @@ Aprenda o básico e entenda quanto poderá ganhar com
 6. Ir na aba demarcadores e excluo o demarcador criado
 
 ![CardápioFrente](img/fulano-projeto-cardapio.jpg)
+
+# Thumbnail Photoshop
+
+Tamanho 1280 x 720
+
+![Thumbnail1](img/Thumbnail1.jpg)
+![Thumbnail2](img/Thumbnail2.jpg)
+![Thumbnail3](img/Thumbnail3.jpg)
+![Thumbnail4](img/Thumbnail4.jpg)
+
+# Capa pra youtube
+
+Tamanho 906,64 mm x 508 mm
+
+![CapaYoutube](img/CapaYoutube.PNG)

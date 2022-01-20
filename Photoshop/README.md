@@ -179,7 +179,7 @@ Pixabay
 
 6.Salva e volta
 
-## Simulação 
+### Simulação 
 
 1. Clickar com o botao direito sobre a imagem Níveis -> escurecer 
 
@@ -213,6 +213,8 @@ A partir de R$12 por composição
 **Dafont**
 **Fontfree** ou **befonts.com**
 **Envatoelements** - site pago
+
+![Tipografia](img/Tipografia.jpg)
 
 ### Melhores fontes sans-serif
 

@@ -24,6 +24,12 @@
 
 [Manual De Marca](#Manual-de-Marca)
 
+[Criar um Pixel Art](#criar-um-pixel-art)
+
+[Criar um Voxel Art](#criar-um-voxel-art)
+
+[Projeção Áurea](#projeção-áurea)
+
 # Vitrine de Projetos
 
 [Behance](https://www.behance.net/)
@@ -232,3 +238,118 @@ Até 5 projetos mensais
 
 
 # Manual de Marca
+
+https://www.behance.net/gallery/134700007/Manual-de-Marca-Stay-Strong
+
+# Criar um Pixel Art
+
+1. Cria um quadrado sem preenchimento sobre o pixelart
+   
+2. Objeto -> Caminho -> divir em grade -> Visualizar -> Grade - 20 X 20
+   
+3. Balde de tinta em tempo real
+   
+4. Bloqueia a pixelart
+   
+5. Cria um grupo de pintura, pintando e arrastando sobre o objeto
+   
+6. Expandir
+
+# Criar um Voxel Art
+
+### Oque é um Voxel Art?
+É um pixel numa forma ou 3D. Pense no pixel com um quadrado simples e o voxel um cubo
+
+
+### TRABALHANDO COM 3D
+
+Efeitos de 3D
+Extrusão e Bisel
+Expandir as formas
+Entendendo a perspectiva
+Organizando camadas
+
+
+### APLICANDO CORES E SOMBRAS
+
+Ferramenta seleção direta para selecionar as faces
+Crie novas oportunidades
+
+
+1. Editar -> preferencia -> Linhas e grade -> Grade a cada 10px e 2 subdivisões
+   
+2. Exibir -> Mostrar grade -> CTRL + ~
+   
+3. Exibir -> Encaixar na grade
+   
+4. Exibir -> Ocultar grade
+   
+5. Faz o pixelart com a ferramenta Pinçel em tempo real
+   
+6. Seleciona os objetos que deseja unilos e CTRL + SHIFT + F9 (Pathfinder) unir
+   
+7. Clicka no objeto unido, Efeito -> 3D -> Extrusão e BISEL
+   
+8. Deixa padrão, marca a opção Visualizar. Profundidade 200pt (Exemplo)
+   
+9.  Com o objeto selecionado. Objeto -> Expandir aparência
+    
+10. Seleção direta -> seleciona o objeto -> CTRL+C, NOVA CAMADA, -> CTRL+V
+
+
+A profundidade de extrusão varia de acordo com objeto
+
+Quando expando consigo selecionar faces do objeto
+
+Com os olhos eu coloco o vértice encima da linha do rosto inferior e depois subo os dois olhos
+
+Posso dar um efeito de luz, colocando as partes superiores mais claras
+
+Posso suavizar algumas partes do pixelart
+
+Selecao direta - seleciona o objeto - ctrlc c, nova camada e ctrlv
+
+Com os olhos eu coloco o vértice encima da linha do rosto  e dps subo os dois
+
+- ajustar o olho-  colocar a parte da frente mais claro pra dar o efeito de luz
+
+- suavizar algumas partes do objeto
+
+
+
+[Sonic Pixel Art](img/Sonic-PixelART.jpg)
+
+
+# Projeção Áurea
+
+Entendendo a proporção áurea
+Trabalhando com círculos
+construindo logos e formas
+expolorando o balde de tinta em tempo real
+
+Entendendo a proporção áurea
+- sequência de Fibonnaci
+- Presença na Natureza
+- Construindo no illustrator
+
+
+1- Pego a proporção Àurea
+
+2- Coloco a proporção Áurea na forma completa e coloco no desenho
+
+3- Encaixo a proporção Áurea de acordo com desenho, desagrupando conforme for necessário
+
+4- Aumento o traçado pra ficar de acordo com o desenho
+
+4- Seleciono tudo e vou em Objeto -> Expandir
+
+5 - Uso a ferramenta de Bande de tinta em tempo real, deixo só a opção traçado marcado
+
+6 - Desagrupo e Retiro as partes desnecessárias
+
+7 - Seleciono tudo e pathfinder -> unir
+
+
+CTRL + SHIF + F9
+
+[Proporção Áurea](img/Proporção-Aurea.jpg)

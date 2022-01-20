@@ -28,6 +28,8 @@
 
 [Enquadramento de Imagens](#enquadramento-de-imagens---regra-dos-terços)
 
+[Efeito Dupla Exposição](#efeito-dupla-exposição)
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -340,3 +342,102 @@ Ponto secundário - Texto
 # Ganhar dinheiro com fotografia
 
 ![DinheiroComFoto](img/DinheiroComFoto.jpg)
+
+# Efeito Dupla Exposição
+
+**Modo de mesclagem** é o modo como a camada superior afeta a camada que está embaixo
+
+O primeiro grupo trabalha com partes **escuras**, escureçendo a imagem
+```bash
+Escureçer
+Multiplicação
+Superesposição de Cores
+Superesposição Linear
+Cor mais escura
+```
+
+O segundo grupo trabalha com as partes **claras**, clareando a imagem
+```bash
+Clarear
+Divisão
+Subexposição de Cores
+Subexposição Linear (Adicionar)
+Cor mais clara
+```
+
+O terceiro grupo trabalha com os **contraste**, Tanto **clarea** como **escureçe** a imagem
+
+```bash
+Sobrepor
+Luz Indireta
+Luz Direta
+Luz Brilhante
+Luz Linear
+Luz do pino
+Mistura Sólida
+```
+![BlackMan](img/Black-man-766x511.jpg)
+![HomemPonte](img/Homem-Ponte-766x1149.jpg)
+
+
+1. Coloque a imagem sobre o objeto
+   
+2. Transforma a imagem superior em objeto inteligente
+   
+3. Aplica na imagem superior uma máscara de camada
+   
+4. Modo de mesclagem -> Escolhe o modo de mesclagem ideal
+   
+5. Ferramenta pinçel e pinte de preto sobre a máscara de camada para escureçer
+
+# Restauração de Foto
+
+### Passo 1 Remover a coloração amarelada
+
+1. Camada de ajuste -> Matiz/saturação -> Remove toda a saturação
+2. Cria um grupo chamado restauração e move tudo lá pra dentro
+
+### Passo 2 Remover as manchas e rasgaduras da fotografia
+
+1. Cria uma nova camada e move ela pra cima. 
+   
+2. Renomeia a camada pra restauração
+   
+3. Seleciona a ferramenta pinçel de recuperação ou carimbo
+   
+4. Muda a configuração de amostras de camada atual para TODAS AS CAMADAS
+   
+5. Copia a textura que será aplicada apertando o botão ALT + Click do mouse
+   
+6. Solta o ALT e passa sobre a mancha
+
+### Passo 3 Traz a cor devolta para a imagem
+
+1. Camada de ajuste -> Matiz/saturação -> Selecione a caixinha colorir
+   
+2. Arraste a cama de Matiz/saturação pra cima
+   
+3. Ajuste a cor para o tom da pele
+   
+4. Clicka na máscara matiz/saturação e CRTL + I pra inverter
+   
+5. Pega o pinçel, selecione a cor branca e pinta a pessoa para revelar as cores
+   
+6. Se quizer posso criar demarcadores para preencher melhor com o pinçel
+   
+7. Devo aumentar a opacidade e o fluxo do pincel
+
+Quando for revelar com o pinçel, evite passar no cabelo, olhos, boca, dentes
+
+Se quizer posso criar demarcadores para preencher melhor com o pinçel
+
+### Diferença do carimbro pra pinçel de recuperação
+
+O **Carimbo** faz uma cópia exata da textura
+O **Pinçel de recuperação** faz uma cópia da textura mesclando a iluminação, sombra, etc. Trazendo mais suavidade
+
+### Posso criar um grupo chamado Danos e outro chamado cores
+
+A camada cores irá conter todas as camadas de ajuste de cada elemento. Seja ele blusa, cabelo, olhos, maquiagem
+
+![Restauração de Foto](img/Restauracao-de-foto.jpg)

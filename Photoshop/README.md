@@ -30,6 +30,8 @@
 
 [Efeito Dupla Exposição](#efeito-dupla-exposição)
 
+[Restauração de Foto](#restauração-de-foto)
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 

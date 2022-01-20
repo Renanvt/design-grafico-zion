@@ -317,7 +317,7 @@ Com os olhos eu coloco o vértice encima da linha do rosto  e dps subo os dois
 
 
 
-[Sonic Pixel Art](img/Sonic-PixelART.jpg)
+![Sonic Pixel Art](img/Sonic-PixelART.jpg)
 
 
 # Projeção Áurea
@@ -352,4 +352,4 @@ Entendendo a proporção áurea
 
 CTRL + SHIF + F9
 
-[Proporção Áurea](img/Proporção-Aurea.jpg)
+![Proporção Áurea](img/Proporção-Aurea.jpg)

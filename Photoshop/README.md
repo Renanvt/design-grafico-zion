@@ -431,6 +431,12 @@ Quando for revelar com o pinçel, evite passar no cabelo, olhos, boca, dentes
 
 Se quizer posso criar demarcadores para preencher melhor com o pinçel
 
+# Passo 4 Camera RAW
+
+1. CTRL + SHIFT + ALT + E em todas as camadas
+2. Converte em objeto inteligente
+3. Filtro -> Camera RAW
+
 ### Diferença do carimbro pra pinçel de recuperação
 
 O **Carimbo** faz uma cópia exata da textura

@@ -32,6 +32,8 @@
 
 [Restauração de Foto](#restauração-de-foto)
 
+[Camera RAW - Tratamento de Pele](#camera-raw---tratamento-de-pele)
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -435,7 +437,7 @@ Quando for revelar com o pinçel, evite passar no cabelo, olhos, boca, dentes
 
 Se quizer posso criar demarcadores para preencher melhor com o pinçel
 
-# Passo 4 Camera RAW
+### Passo 4 Camera RAW
 
 1. CTRL + SHIFT + ALT + E em todas as camadas
 2. Converte em objeto inteligente

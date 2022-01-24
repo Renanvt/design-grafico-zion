@@ -8,6 +8,12 @@
 
 [A Arte De Encantar Cliente](#A-Arte-de-Encantar-Clientes)
 
+[Post Profissional para Instagram](#post-profissional-para-instagram)
+
+[Ferramenta Caneta](#ferramenta-caneta)
+
+[Ferramenta Construtor de Formas](#ferramenta-construtor-de-formas)
+
 [Mockup](#Mockup)
 
 [Precificação](#Precificação)
@@ -65,6 +71,10 @@ Faturamento mês =  ~ R$ 5.760
 5. 3D
 6. Deformar
 
+![Thumbnails](img/Thumbnails-Fortnite.jpg)
+
+![FonteFX](img/FX-Fonte-Super-herois.jpg)
+
 # Criação de Logos
 
 Na maioria das vezes **250px** (largura) x **100px** (altura) são as dimensões ideias para uma página web
@@ -73,6 +83,8 @@ Para criar um logo pode utilizar as dimensões **36,86** Centímetros de largura
 
 **Logofolio** - portfólio de logo
 
+![Logo](img/Logo-Jonatan.png)
+![PadronagemLogo](img/Padronagem-Logo.jpg.png)
 
 # A Arte de Encantar Clientes
 
@@ -92,11 +104,31 @@ Usar GTV, Rels - pequenos segundos de vídeo
 
 Para meios digitais é até 150dpi de resolução, de preferência 72dpia
 
+# Post Profissional para Instagram
+
+![PostInstagram](img/PostProfissionalInstagram.jpg)
+
+# Ferramenta Caneta
+
+![FerramentaCanera](img/FerramentaCaneta_Coca-Cola.jpg)
+
+# Ferramenta Construtor de Formas
+
+![FerramentaConstrutorDeFormas](img/FerramentaConstrutorDeFormasGirafa.jpg)
+
 # Mockup
 
 Site para mockups:
 Free-mockup.com
 Mockupword.co
+
+https://camisadimona.com.br/
+Dimona stampa para tudo
+
+![Mockup1](img/EstampaComIlustracao.jpg)
+![Mockup2](img/EstampaKratos.jpg)
+![Mockup3](img/EstampaMorcego.jpg)
+
 
 # Precificação
 
@@ -118,6 +150,9 @@ Associação dos design gráfico do Distrito Federal
 - Fazer parcerias
 - Falar pra indicar depois que fizer o trabalho
 
+![QuantoCobrar](img/Quanto-cobrar1.png)
+![QuantoCobrar](img/Quanto-cobrar2.png)
+
 # Flyer Digital
 
 ### Tamanho de um flyer
@@ -134,6 +169,14 @@ Salvar cópia - pdf
 Marca e sangrias
 Marcas
 Marcas de aparagem
+
+![FlyerAcademia](img/Flyer-Academia.jpg)
+
+# Lucrando com convites
+
+![LucrandoComConvites](img/LucrandoComConvites.png)
+
+![LucrandoComConvites2](img/LucrandoComConvites-2.png)
 
 # Fechamento de Arquivo
 
@@ -203,6 +246,14 @@ Capa para e-book
 - Pinterest
 - Unsplash
 
+![CapasDeLivro](img/Capa-de-Livro-1.png)
+
+![CapasDeLivro2](img/Capa-de-Livro-2.jpg)
+
+![CapasDeLivro3](img/Capa-de-Livro-3.jpg)
+
+![CapasDeLivroBehance](img/Capa-de-Livro-Behanced.png)
+
 # Pattern
 
 Oque é pattern - simbolos que se repetem
@@ -218,14 +269,10 @@ Oque é pattern - simbolos que se repetem
 - Eu sou artista se quiser trabalho amador procura outro
 - Pagar pela prioridade é perigoso
 
-### Tamanho
-3:1
-### Impressão 
-3cm - 3 x 10 - 30cm
-1cm - 1 x 10 - 10cm
 
-https://camisadimona.com.br/
-Dimona stampa para tudo
+![Padronagem](img/Padronagem-Logo.jpg.png)
+![Padronagem2](img/Padronagem.jpg)
+
 
 # Gigantografia
 
@@ -233,8 +280,18 @@ A partir de R$120 em baner 80 por 1
 Até 5 projetos mensais
 
 **Qual é a medida do banner?**
+
+### Tamanho
+3:1
+### Impressão 
+3cm - 3 x 10 - 30cm
+1cm - 1 x 10 - 10cm
+
 **Onde ele será aplicado?**
 **Logotipo, informação do banner (resumido)**
+
+![Gigantografia](img/Gigantografia-1.png)
+![Gigantografia2](img/Gigantografia-2.png)
 
 
 # Manual de Marca
@@ -315,10 +372,7 @@ Com os olhos eu coloco o vértice encima da linha do rosto  e dps subo os dois
 
 - suavizar algumas partes do objeto
 
-
-
 ![Sonic Pixel Art](img/Sonic-PixelART.jpg)
-
 
 # Projeção Áurea
 

@@ -451,3 +451,62 @@ O **Pinçel de recuperação** faz uma cópia da textura mesclando a iluminaçã
 A camada cores irá conter todas as camadas de ajuste de cada elemento. Seja ele blusa, cabelo, olhos, maquiagem
 
 ![Restauração de Foto](img/Restauracao-de-foto.jpg)
+
+# Camera RAW - Tratamento de Pele
+
+Um arquivo **RAW** possui todas as informações que um sensor conseguiu capturar na hora da foto, possibilitando alterar mais detalhadamente no camera raw
+
+### Remover espinhas
+
+1. Abra um arquivo RAW no photoshop
+   
+2. Ferramenta remoção de mancha
+   
+3. Click com o botão do mouse na mancha para remove-la
+   
+4. Click no perfil de cores "Adobe RGB (1998); 8 bit; 400 ..."
+   
+5. Marcar a opção Abrir no Photoshop como Objetos Inteligentes
+   
+6. Abrir projeto
+
+### Correção na pele 
+
+1. Faz 2 cópias da imagem RAW por cima dela e renomeia a superior **textura** para e a inferior para **tons** Separa da imagem oque é cor e textura
+   
+2. Vai na camada tons, filtro -> desfoque -> desfoque glausiano. Coloca o Raio de modo que a imagem perca a textura mais seja indentificável
+   
+3. Vai na camada textura, botão direito do mouse -> rasterizar camada
+   
+4. Vai na camada textura, imagem -> aplicar imagem -> camadas: tons; escala:2; deslocamento: 128; opacidade:100%; mesclagem: subtrair. Resultado = Imagem cinza
+   
+5. Vai na camada textura -> Modo de mesclagem -> Luz Linear
+
+### Outras correções
+
+Posso remover a textura dos locais sem prejudicar as cores da imagem
+
+1. Ferramenta Carimbo
+   
+2. Coloca só pra visualizar a textura -> Passa com o carimbo sobre a parte a ser removida
+
+
+### Suavizar a exposição de luz
+
+1. Camada tons -> Duplicar camada
+   
+2. Rasterizar camada
+   
+3. Renomeia a camada pra suave
+   
+4. Ferramenta laço -> passar em volta de áreas que possuem mais luz e sombra ao mesmo tempo
+   
+5. Difusão do laço bem alta, Ex: 20px
+   
+6. Filtro -> desfoque glausiano
+   
+7. Conforme vou aumentando o desfoque, vou suavizando a transição de luz
+
+![TratamentoDePele](img/TratamentoDePele_766x766.jpg)
+
+![TratamentoDePele2](img/TratamentoDePele_2_766x766.jpg)

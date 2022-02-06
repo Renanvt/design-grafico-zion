@@ -1,0 +1,18 @@
+Criar novo arquivo
+Impressão
+Medidas: 90 mm x 50mm
+Modo de cor: CMYC
+Sangria: 3mm ou 4mm
+Pranchetas: 2 (frente e verso)
+
+Para fazer o preenchimento eu puxo um retângulo da sangria até a outra ponta
+
+Como criar uma nuvem ?
+crio um elipse
+Duplico ele e coloco um do lado do outro com tamanhos diferentes
+Seleciono todas -> Pathfinder -> Unir
+Ferramenta Borracha -> Alt -> Clicka e arrasta na parte a ser removida
+
+È importante eu criar contornos no texto antes de exportar, para que possa ser convertido em vetor, para não ter problemas com fonte
+
+Salvar como PDF (PDF/X-1A)

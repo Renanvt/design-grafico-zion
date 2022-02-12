@@ -512,3 +512,58 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 ![TratamentoDePele](img/TratamentoDePele_766x766.jpg)
 
 ![TratamentoDePele2](img/TratamentoDePele_2_766x766.jpg)
+
+# Efeito Duotone e Lotes
+
+![EfeitoDuotone](img/EfeitoDuotone.PNG)
+
+
+![EfeitoDuotone2](img/EfeitoDuotone2.PNG)
+
+![EfeitoDuotone3](img/EfeitoDuotone3.PNG)
+
+![EfeitoDuotoneRuim](img/EfeitoDuotoneRuim.PNG)
+
+![Grana](img/Grana.PNG)
+
+### Efeito Duotone no Photoshop
+
+![DuotonePhotoshop](img/DuotonePhotoshop.PNG)
+
+### Painel Ações
+
+**Lote** - conjunto de ações 
+
+![AçõesELote](img/AcoesELote.PNG)
+
+![AçõesELote2](img/AcoesELote2.PNG)
+
+![Lote](img/Lote.jpg)
+
+### Automatizar Lotes
+
+![AutomatizarLotes](img/AutomatizarLotes.jpg)
+
+# Fotometria
+
+![MedindoAIntensidadeDaLuz](img/MedindoAIntensidadeDaLuz.PNG)
+
+![Fotometria](img/Fotometria.PNG)
+
+![IsoDaCamera](img/IsoDaCamera.PNG)
+
+![DiafragmaDaCamera](img/DiafragmaDaCamera.PNG)
+
+![ObturadorDaCamera](img/ObturadorDaCamera.PNG)
+
+![DetalhesSobreObturador](img/DetalheSobreObturadores.PNG)
+
+![Exemplo](img/Exemplos.PNG)
+
+![Exemplo2](img/Exemplo2.PNG)
+
+![Exemplo3](img/Exemplo3.PNG)
+
+![Grana2](img/Grana2.PNG)
+
+

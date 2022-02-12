@@ -74,14 +74,6 @@ U -> Usado para deformar as linhas de um objeto
 ### Qual o caminho para criar um padrão no Illustrator
 Objeto -> Padrão - Criar
 
-### Quantos softwares são específicos para trablhar com vídeo na linha da adobe?
-1 - Premiere
-2 - After Efects
-3 - Audition
-
-### Oque é Proxy no Premiere
-Uma cópia dem baixa qualidade de um vídeo original
-
 # Photoshop(.PSD)
 
 ### Qual é a função do photoshop
@@ -163,6 +155,14 @@ Decupagem e principalmente edição de vídeo
 ### Oque é StoryBoard
 È uma sequência de desenhos com o esboço das cenas pensadas para um vídeo
 
+### Quantos softwares são específicos para trablhar com vídeo na linha da adobe?
+1 - Premiere
+2 - After Efects
+3 - Audition
+
+### Oque é Proxy no Premiere
+Uma cópia dem baixa qualidade de um vídeo original
+
 ### Oque é uma edição não linear
 É uma técnica de edição em que as cenas podem ser gravadas de modo arleatórios
 
@@ -214,7 +214,9 @@ Saber
 
 ### Quais são os tipos de Keyframes
 Ease Ease - Começa devagar -> rápido -> devagar
+
 Ease In -> Começa devagar -> rápido
+
 Ease Out -> Começa rápido -> devagar
 
 ### Qual tecla utilizados para suavizar um keyframe

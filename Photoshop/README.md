@@ -38,6 +38,12 @@
 
 [Fotometria](#fotometria)
 
+# Extensões e Dicas
+
+Plugin do Pexels no photoshop - https://www.pexels.com/pro/
+
+
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -557,11 +563,24 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![IsoDaCamera](img/IsoDaCamera.PNG)
 
+![IsoDaCamera2](img/IsoDaCamera2.PNG)
+
 ![DiafragmaDaCamera](img/DiafragmaDaCamera.PNG)
+
+![AberturaDoDiafragma](img/AberturaDoDiafragma.PNG)
+
+### Diafragma muito aberto
+![ExemploDiafragmaMuitoAberto](img/ExemploDiafragmaMuitoAberto.PNG)
 
 ![ObturadorDaCamera](img/ObturadorDaCamera.PNG)
 
 ![DetalhesSobreObturador](img/DetalheSobreObturadores.PNG)
+
+![VelocidadeDoObturador](img/VelocidadeDoObturador.PNG)
+
+[ExemploAltaVelocidade](img/ExemploVelocidadeAlta.PNG)
+
+[ExemploVelocidadeAlta](img/ExemploVelocidadeRápida.PNG)
 
 ![Exemplo](img/Exemplos.PNG)
 
@@ -571,4 +590,7 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![Grana2](img/Grana2.PNG)
 
+### Programa para controlar essas configurações
+
+![Adobe Lightroom](img/AdobeLightroom.PNG)
 

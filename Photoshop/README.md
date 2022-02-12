@@ -34,6 +34,10 @@
 
 [Camera RAW - Tratamento de Pele](#camera-raw---tratamento-de-pele)
 
+[Efeito Duotone e Lotes](#efeito-duotone-e-lotes)
+
+[Fotometria](#fotometria)
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -538,9 +542,10 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![AçõesELote2](img/AcoesELote2.PNG)
 
-![Lote](img/Lote.jpg)
 
 ### Automatizar Lotes
+
+![Lote](img/Lote.jpg)
 
 ![AutomatizarLotes](img/AutomatizarLotes.jpg)
 

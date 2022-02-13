@@ -42,7 +42,29 @@
 
 Plugin do Pexels no photoshop - https://www.pexels.com/pro/
 
+### Como criar postagens para **impulsionar** de forma **correta**
 
+Dicas de marketing digital no facebook
+https://www.facebook.com/business
+
+Classifica o texto que eu tenho na arte
+https://www.facebook.com/ads/tools/text_overlay
+
+### Qual é a altura x largura para postagem no facebook?
+1200 x 628 PX
+
+### Como saber se a minha arte tem a quantidade de texto ideal?
+
+1. Visualizar -> Novo layout de guias
+2. Colunas 5, linhas 15
+
+Verificar a quantidade de blocos que está sendo ocupado pelo texto
+O **facebook** vai aceitar se o texto total da minha arte estiver ocupando somente **5 blocos** ou menos
+
+### Criar blocos no Ilustrator
+1. Ferramenta Grade retangular
+2. Divisores horizontais -> 5
+3. Divisores verticais -> 5
 
 # Limpeza de Cena
 
@@ -230,12 +252,17 @@ A partir de R$12 por composição
 
 ### Melhores fontes sans-serif
 
-Montserrat
-Roboto
-Gotham black
-Opens Sans
-Helvetica
+- Montserrat
 
+- Roboto
+
+- Gotham black (ideal pra impressão)
+
+- Opens Sans
+
+- Helvetica
+
+- Bebas (indicado pra artes digitais)
 # Criando grafismos com pincéis
 
 ### Utilizado em: 

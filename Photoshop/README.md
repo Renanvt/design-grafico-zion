@@ -536,6 +536,89 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![Grana](img/Grana.PNG)
 
+# Efeito Desintegração
+
+
+## Edição de pincel
+
+1. Cria um documento vazio
+2. Ferramenta Pincel
+3. Configurações de pincel
+
+**Fluxo** - intensidade da textura
+
+**Dinâmica de forma** - espalha o pincel a medifa que eubfor passando
+
+**Textura** - faz com que o pincel fique mais denso
+
+
+## Sites de pincel
+
+https://www.deviantart.com/search?q=brush
+
+https://www.brusheezy.com/
+
+## Criar um pincel novo
+
+### Criar o próprio pincel
+Criar um arquivo novo por 2500 x 2500 px
+Ferramenta retângulo - Cria vários retângulos pequeno em um fundo branco ou transparente na cor preta
+Ferramenta triângulo - Cria vários triângulos pequeno em um fundo branco ou transparente na cor preta 
+**Criar com efeito de explosão, de modo que fique menor no centro e maior nas bordas**
+Menu editar -> Definir predifinição de pincel -> renomeia o pincel
+
+### Configurar o pincel criado
+Configurações do pincel -> Forma da ponta do pincel -> espaçamento - > aumentar
+Configurações do pincel -> Dinâmica da forma-> tremulação do tamanho -> aumentar 100%
+Configurações do pincel -> Dinâmica da forma-> tremulação do ângulo -> aumentar 100%
+Configurações do pincel -> Dispersão -> disperção -> 136% (Deixa mais espalhado)
+Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade de pincel)
+
+# Método 1 
+
+1. Converter a imagem em objeto inteligente
+2. Filtro - dissolver - shift + ctrl + x
+3. Ferramenta deformar
+4. Destaca a área que sera desintegrada - ok
+5. Duplica a camada - crtl + j
+6. Cria uma máscara de camada na camada debaixo
+7. Seleciona a máscara 
+8. Ferramenta Pincel - cor preta - passa no dedo com liquify
+
+9. Elimina o liquify da outra camada
+10. Presiona alt e arrasta pra outra camada
+11. Clicka na corrente pra tirar o vínculo 
+
+# Método 2
+
+1. Arquivo novo -> web -> 1920 x 1080
+2. Inseri a manápola
+3. Coloca o fundo que desejar
+4. Duplica a camada da manópola
+5. Cria uma máscara nas duas manópolas
+6. Aumenta a manópola inferior de modo que fique sobreposta sobre a de cima
+7. Clicka na manópola aumentada -> Filtro -> Desfoque -> Desfoque Glausiano -> 21,5 %
+8. Clicka na máscara da camada da manópola grande -> ctrl + i (inverter) -> Máscara fica preta
+9. Clicka na camada com a mascara branca -> Ferramenta Pincel -> Clicka sobre o dedo da manópola ou em áreas que deseja ser desinstegrado
+10. Clicka na camada com a máscara preta -> Ferramenta Pincel -> Cor Branca -> Revelar áreas acima do dedo
+
+# Método 3
+
+1. Seleciona a imagem
+2. CTRL J
+3. Filtro - Dissolver
+4. Ferramenta congelar (selecione áreas que não você não quer que modifique)
+5. Ferramenta Deformação -> Puxar as bordas da imagem
+6. Criar máscara
+7. Lata de tinta -> inverte para cor preta
+8. Ferramenta Pinçel -> Seleciono o pinçel
+9. Pinto com o pinçel de branco nas bordas
+10. Seleciono as duas camadas e CTRL + E
+11. Filtro de camera Raw
+
+
+![ThanosMópola](img/Thanos-Manópola.jpg)
+
 ### Efeito Duotone no Photoshop
 
 ![DuotonePhotoshop](img/DuotonePhotoshop.PNG)

@@ -66,6 +66,11 @@ O **facebook** vai aceitar se o texto total da minha arte estiver ocupando somen
 2. Divisores horizontais -> 5
 3. Divisores verticais -> 5
 
+### Como descobrir o nome de qualquer fonte
+1. Photoshop
+2. Menu Texto
+3. Localizar fontes semelhantes
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 

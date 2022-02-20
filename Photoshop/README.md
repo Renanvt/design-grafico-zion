@@ -735,4 +735,5 @@ Ponto secundário - Texto
 # Social Media
 
 Tamanho Instagram 1080 x 1080
+
 Tamanho Stories 1920 x 1080

@@ -49,6 +49,88 @@ Plugin do Pexels no photoshop - https://www.pexels.com/pro/
 
 ### Como criar postagens para **impulsionar** de forma **correta**
 
+#### Quantidade de texto na imagem
+https://facebook.com/business
+
+#### Verificação de texto da imagem
+https://facebook.com/ads/tools/text_overlay
+
+No facebook só vai aceitar se o texto que tiver na minha arte estiver ocupando somente **5 blocos**
+
+#### Fonte ideal para encurtar o espaço do texto:
+Fonte: Bebas
+
+1. Exibir
+
+2. Novo Layout de guias
+
+3. 5 colunas e 5 linhas
+   
+### Como descobrir o nome de qualquer fonte
+
+1. Texto
+
+2. Localizar fonte semelhante
+
+### Diminuir o tamanho da imagem sem perder a qualidade
+
+https://www.compressor.io
+
+### Como copiar uma imagem e jogar em um novo documento
+
+1. Copio a imagem
+
+2. CTRL + N (Novo Documento)
+
+3. Seleciono Área de Transferência
+
+A imagem vai ser criada em um novo documento com uma nova prancheta com as dimensões da imagem copiada
+
+### Corrigindo erros de luzes e cores comuns em fotos de celular
+
+#### Foto esbranquiçada
+
+1. Janela
+
+2. Camadas (F7)
+
+3. Duplica a imagem -> Antes e depois
+
+4. Camada (depois) -> Imagem -> Ajuste -> Exposição
+
+Exposição - Valoriza o branco/brilho da imagem
+
+Deslocamento - Conseguir realçe nas partes escura da imagem
+
+Gama - Da um terceiro acabamento nas cores, valorizando as sombras
+
+1. Ajuste -> Matiz Saturação
+
+2. Aplicar a quantidade de saturação necessária
+
+#### Corrigir foto fria
+
+1. Imagem - Ajuste -> Níveis, Curvas
+
+2. Canais -> Vermelho
+
+3. Ajustar para aumentar o vermelho
+
+4. Canais -> Azul
+
+5. Ajustar para tirar o azul
+
+#### Céu iluminado e o restante apagado
+
+1. Ferramenta de seleção rápida
+
+2. Marcar o céu
+
+3. CTRL + J
+
+4. Vou na imagem apagada -> Ajuste -> Exposição
+
+
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -184,19 +266,110 @@ Pixabay
 
 # Criar um mockup
 
+Sites pra mockup:
+
+- https://graphicburger.com/mock-ups/
+
+- https://freebiesmockup.com/
+
+## Método 1
+
+Busca um modelo para criação. 
+
+Exemplo: Blusa Branca (boa qualidade)
+
+Buscar um background
+
+Exemplo: bg wood
+
+1. Ferramenta seleção rápida
+
+2. Inverter seleção 
+
+3. CTRL + J (duplicar)
+
+4. Renomear o arquivo (Camisa Base)
+
+5. Camada de ajuste -> cor sólida -> Renomeie para (Selecione a sua cor)
+
+6. Cliping Mask -> Alt + passar o mouse na camada de baixo + click (CTRL + ALT + G) 
+
+7. Alterna entre os modos de mesclagem (multiplicação)
+
+8. Altera a cor da camisa (opcional)
+
+#### Colocar o logo ou imagem
+
+1. Inseri a imagem
+
+2. Rasteriza ela
+
+3. Transforma em objeto inteligente novamente
+Método 2
+
+4. CTRL + T -> Deformar
+
+5. Renomeie o logo com objeto inteligente para **Coloque aqui a sua arte**
+
+#### Ajustar sombra
+
+1. Selecione a camada Camisa Base
+
+2. Selecionar -> Intervalo de cores
+
+3. Configure para pegar todas as sombras da imagem
+
+4. Duplica a camada com seleção -> Joga ela pra cima
+
+5. Selecione a cor preta
+
+7. Com a camada duplicada selecionada, pinte somente os pixels existente na imagem (ALT+SHIFT+DEL)
+
+#### Suavizar sombras
+
+1 Camada sombra selecionada
+
+2. Filtro - Desfoque -> Desfoque glausiano
+
+3. Selecione a camada **Sombra** e com o CTRL clicko na miniatura da **Camisa Base** para pegar a seleção automaticamente
+
+4. Seleciono a camada sombra -> Criar máscara de camada
+
+5. Pinçel preto -> Pinto nas bordas 
+
+#### Outros ajustes
+
+1. Ferramenta corte demarcador - Expandir a área de trabalho
+
+2. Coloca a imagem de background
+
+3. Coloca ela embaixo
+
+4. Selecione todas as camadas menos a de background e agrupa
+
+5. Renomeie a camada agrupada para Camisa
+
+6. FX - Sombra projetada
+
+## Método 2
+
+Com a camisa ja inserida no photoshop:
+
+#### Inserir uma imagem na camisa
+
 1. Criar uma forma básica com as medidas da imagem que vou utilizar
 
-2. Converter a forma pra objeto inteligente
+2.  Converter a forma pra objeto inteligente
 
-3. Criar máscara de recorte e apagar oque sobrar (opcional)
+3.  Criar máscara de recorte e apagar oque sobrar (opcional)
 
-4. Ajustar para caber no meio da camisa
+4.  Ajustar para caber no meio da camisa
 
 5. Entramos no objeto inteligente e Adicionar imagem
 
-6.Salva e volta
+6. Salva e volta
 
-### Simulação 
+#### Simulação 
 
 1. Clickar com o botao direito sobre a imagem Níveis -> escurecer 
 
@@ -210,7 +383,6 @@ Pixabay
 
 6. Filtro -> Distorção -> mesclagem -> imagem salva -> 10 x 10
 
-Site pra mockup - freebeez
 
 ![MapaDeMesclagem](img/mapa_de_mesclagem.jpg)
 
@@ -337,9 +509,21 @@ Mistura Sólida
 
 # Restauração de Foto
 
+### Camada de Ajuste
+
+#### Luz e sombra da imagem
+- Brilho/Contraste
+
+- Níveis
+
+- Curvas
+
+- Exposição
+
 ### Passo 1 Remover a coloração amarelada
 
 1. Camada de ajuste -> Matiz/saturação -> Remove toda a saturação
+   
 2. Cria um grupo chamado restauração e move tudo lá pra dentro
 
 ### Passo 2 Remover as manchas e rasgaduras da fotografia

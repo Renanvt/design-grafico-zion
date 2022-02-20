@@ -646,7 +646,9 @@ Studio precisa de uma iluminação artificial
 
 **LED** significa **diodos emissores de luz**. A partir do LED é possível usar:
 
-**SoftBox**: **Luz suave** (É aquela que gera sombras sem contornos nítidos e não é possível dizer exatamente em que ponto essa sombra começa ou termina)### Luz Recorte
+**SoftBox**: **Luz suave** (É aquela que gera sombras sem contornos nítidos e não é possível dizer exatamente em que ponto essa sombra começa ou termina)
+
+### Luz Recorte
 
 ![SoftBox](img/SoftBox.PNG)
 

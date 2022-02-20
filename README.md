@@ -8,6 +8,21 @@ https://www.workana.com/
 
 https://reportei.com/tamanho-de-imagens-para-as-midias-sociais/
 
+### Arquétipos das Marcas
+![ArquétiposDAsMarcas](img/ArquetiposDasMarcas.jpg)
+
+### Planos
+![Planos](img/Planos.jpg)
+
+### 5W2H
+![5W2H](img/5w2h.jpg)
+
+### Divisão de Tarefas
+![DivisãoDeTarefas](img/DivisaoDeTarefas.jpg)
+
+### Mercados
+![Mercados](img/Mercado.jpg)
+
 # Tópicos
 [Ilustator](#ilustrator-ai)
 

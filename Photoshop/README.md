@@ -24,13 +24,13 @@
 
 [Thumbnails Photoshop](#thumbnail-photoshop)
 
-[Tipos de Iluminação](#tipos-de-iluminação)
-
-[Enquadramento de Imagens](#enquadramento-de-imagens---regra-dos-terços)
-
 [Efeito Dupla Exposição](#efeito-dupla-exposição)
 
 [Restauração de Foto](#restauração-de-foto)
+
+[Ferramenta Liquify](#ferramenta-liquify)
+
+[Efeito Desintegração](#efeito-desintegração)
 
 [Camera RAW - Tratamento de Pele](#camera-raw---tratamento-de-pele)
 
@@ -38,10 +38,14 @@
 
 [Fotometria](#fotometria)
 
+[Tipos de Iluminação](#tipos-de-iluminação)
+
+[Enquadramento de Imagens](#enquadramento-de-imagens---regra-dos-terços)
+
+
 # Extensões e Dicas
 
 Plugin do Pexels no photoshop - https://www.pexels.com/pro/
-
 
 
 # Limpeza de Cena
@@ -277,87 +281,6 @@ Tamanho 906,64 mm x 508 mm
 
 ![CapaYoutube](img/CapaYoutube.PNG)
 
-# Tipos de Iluminação
-
-Existem dois tipos principais de luz: **Natural** e **Artificial**
-
-A **Luz natural**, é toda iluminação proveniente da natureza, como a **luz do sol** ou **da lua**, por exemplo
-
-A **Luz artificial** é obtida através de **equipamentos** e **acessórios** para fotografia
-
-### LED / Luz Suave
-
-**LED** significa **diodos emissores de luz**. A partir do LED é possível usar:
-
-**SoftBox**: **Luz suave** (É aquela que gera sombras sem contornos nítidos e não é possível dizer exatamente em que ponto essa sombra começa ou termina)### Luz Recorte
-
-![SoftBox](img/SoftBox.PNG)
-
-### Luz Refletida / Luz Dura
-
-**Umbrella**: **Luz Refletida** (Amplia a capacidade do flash, ele rebate as luzes e a projeta para pontos escuros com delicadeza e neutralidade).
-
-**Ponto**: **Luz Dura** (Ela incide diretamente sobre o objeto fotografado, causando uma sombra bem marcada e nítida).
-
-![LuzRefletidaXLuzDura](img/LuzRefletidaXLuzDura.PNG)
-
-### Outros tipo de luzes
-
-![TiposDeLuz.jpg](img/TiposDeLuz.jpg)
-
-### Contra Luz
-### Recorte 3/4
-
-
-Natural n usa mt equipamento de iluminacao
-Studio precisa de uma iluminação artificial
-
-Evitar desfocar a imagem
-
-
-# Enquadramento de Imagens - Regra dos terços 
-
-Cobrar por hora
-Preparar equipamento, ver o clima, verificar com antecedência 
-
-Tamanho de social media
-**1080 x 1350**
-Banco de imagens
-**Pexels.com** 
-
-### Como fazer a regra dos terços no Photoshop
-
-1. Visualizar
-   
-2. Novo layout de guias
-   
-3. Colunas - 3
-   
-4. Linhas - 3
-   
-5. Medianiz 0
-   
-6. Visualizar ->Bloquear guias
-
-Ponto principal - Imagem
-Ponto secundário - Texto
-
-![RegraDosTerços](img/RegraDosTercos.png)
-
-![RegraDosTerços2](img/RegraDosTercos2.jpg)
-
-![RegraDosTerços3](img/RegraDosTercos3.jpg)
-
-![RegraDosTerços4](img/RegraDosTercos4.jpg)
-
-![RegraDosTerços5](img/RegraDosTercos5.jpg)
-
-![RegraDosTerços6](img/RegraDosTercos6.jpg)
-
-
-# Ganhar dinheiro com fotografia
-
-![DinheiroComFoto](img/DinheiroComFoto.jpg)
 
 # Efeito Dupla Exposição
 
@@ -523,21 +446,21 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![TratamentoDePele2](img/TratamentoDePele_2_766x766.jpg)
 
-# Efeito Duotone e Lotes
+# Ferramenta liquify
 
-![EfeitoDuotone](img/EfeitoDuotone.PNG)
+A partir de R$50
+5 artes por semana
+20 no mês 
 
+1. Converter a imagem em objeto inteligente
+2. Filtro - dissolver
+3. Ferramenta face
 
-![EfeitoDuotone2](img/EfeitoDuotone2.PNG)
+Reconhecer o traço mais marcante da pessoa e da um exagero
 
-![EfeitoDuotone3](img/EfeitoDuotone3.PNG)
-
-![EfeitoDuotoneRuim](img/EfeitoDuotoneRuim.PNG)
-
-![Grana](img/Grana.PNG)
+1920 x 1080 px
 
 # Efeito Desintegração
-
 
 ## Edição de pincel
 
@@ -619,6 +542,20 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 
 ![ThanosMópola](img/Thanos-Manópola.jpg)
 
+# Efeito Duotone e Lotes
+
+![EfeitoDuotone](img/EfeitoDuotone.PNG)
+
+
+![EfeitoDuotone2](img/EfeitoDuotone2.PNG)
+
+![EfeitoDuotone3](img/EfeitoDuotone3.PNG)
+
+![EfeitoDuotoneRuim](img/EfeitoDuotoneRuim.PNG)
+
+![Grana](img/Grana.PNG)
+
+
 ### Efeito Duotone no Photoshop
 
 ![DuotonePhotoshop](img/DuotonePhotoshop.PNG)
@@ -639,6 +576,11 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 ![AutomatizarLotes](img/AutomatizarLotes.jpg)
 
 # Fotometria
+
+Tamanho de outdoor 1920 x 1080
+
+- Divulgação de produtos
+<https://www.pngegg.com>
 
 ![MedindoAIntensidadeDaLuz](img/MedindoAIntensidadeDaLuz.PNG)
 
@@ -677,3 +619,112 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 
 ![Adobe Lightroom](img/AdobeLightroom.PNG)
 
+
+# Tipos de Iluminação
+
+
+Existem dois tipos principais de luz: **Natural** e **Artificial**
+
+A **Luz natural**, é toda iluminação proveniente da natureza, como a **luz do sol** ou **da lua**, por exemplo
+
+A **Luz artificial** é obtida através de **equipamentos** e **acessórios** para fotografia
+
+Natural n usa mt equipamento de iluminacao
+
+Studio precisa de uma iluminação artificial
+
+**Evitar desfocar a imagem**
+
+
+### LED / Luz Suave
+
+**LED** significa **diodos emissores de luz**. A partir do LED é possível usar:
+
+**SoftBox**: **Luz suave** (É aquela que gera sombras sem contornos nítidos e não é possível dizer exatamente em que ponto essa sombra começa ou termina)### Luz Recorte
+
+![SoftBox](img/SoftBox.PNG)
+
+### Luz Refletida / Luz Dura
+
+**Umbrella**: **Luz Refletida** (Amplia a capacidade do flash, ele rebate as luzes e a projeta para pontos escuros com delicadeza e neutralidade).
+
+**Ponto**: **Luz Dura** (Ela incide diretamente sobre o objeto fotografado, causando uma sombra bem marcada e nítida).
+
+![LuzRefletidaXLuzDura](img/LuzRefletidaXLuzDura.PNG)
+
+![Luzes](img/Luzes.PNG)
+
+
+## Outros tipo de Luzes
+
+### Luz Frontal, Lateral e Três quartos
+
+![TiposDeLuz.jpg](img/TiposDeLuz.jpg)
+
+![Luzes2](img/Luzes2.PNG)
+
+### Contra Luz
+
+![Luzes3](img/Luzes3.PNG)
+
+![Luzes3-2](img/Luzes3-2.PNG)
+
+### Recorte 3/4
+
+![Luzes3-3](img/Luzes3-3.PNG)
+
+### Luz Zenital e Negativa
+
+![Luzes4](img/Luzes4.PNG)
+
+
+# Enquadramento de Imagens - Regra dos terços 
+
+Cobrar por hora
+Preparar equipamento, ver o clima, verificar com antecedência 
+
+Tamanho de social media
+**1080 x 1350**
+Banco de imagens
+**Pexels.com** 
+
+### Como fazer a regra dos terços no Photoshop
+
+1. Visualizar
+   
+2. Novo layout de guias
+   
+3. Colunas - 3
+   
+4. Linhas - 3
+   
+5. Medianiz 0
+   
+6. Visualizar ->Bloquear guias
+
+Ponto principal - Imagem
+Ponto secundário - Texto
+
+![RegraDosTerços](img/RegraDosTercos.png)
+
+![RegraDosTerços](img/RegraDosTerços.PNG)
+
+![RegraDosTerços2](img/RegraDosTercos2.jpg)
+
+![RegraDosTerços3](img/RegraDosTercos3.jpg)
+
+![RegraDosTerços4](img/RegraDosTercos4.jpg)
+
+![RegraDosTerços5](img/RegraDosTercos5.jpg)
+
+![RegraDosTerços6](img/RegraDosTercos6.jpg)
+
+
+# Ganhar dinheiro com fotografia
+
+![DinheiroComFoto](img/DinheiroComFoto.jpg)
+
+# Social Media
+
+Tamanho Instagram 1080 x 1080
+Tamanho Stories 1920 x 1080

@@ -49,36 +49,6 @@ Plugin do Pexels no photoshop - https://www.pexels.com/pro/
 
 ### Como criar postagens para **impulsionar** de forma **correta**
 
-<<<<<<< HEAD
-=======
-Dicas de marketing digital no facebook
-https://www.facebook.com/business
-
-Classifica o texto que eu tenho na arte
-https://www.facebook.com/ads/tools/text_overlay
-
-### Qual é a altura x largura para postagem no facebook?
-1200 x 628 PX
-
-### Como saber se a minha arte tem a quantidade de texto ideal?
-
-1. Visualizar -> Novo layout de guias
-2. Colunas 5, linhas 15
-
-Verificar a quantidade de blocos que está sendo ocupado pelo texto
-O **facebook** vai aceitar se o texto total da minha arte estiver ocupando somente **5 blocos** ou menos
-
-### Criar blocos no Ilustrator
-1. Ferramenta Grade retangular
-2. Divisores horizontais -> 5
-3. Divisores verticais -> 5
-
-### Como descobrir o nome de qualquer fonte
-1. Photoshop
-2. Menu Texto
-3. Localizar fontes semelhantes
-
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 # Limpeza de Cena
 
 - Ferramenta de seleção 
@@ -482,7 +452,6 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![TratamentoDePele2](img/TratamentoDePele_2_766x766.jpg)
 
-<<<<<<< HEAD
 # Ferramenta liquify
 
 A partir de R$50
@@ -497,8 +466,6 @@ Reconhecer o traço mais marcante da pessoa e da um exagero
 
 1920 x 1080 px
 
-=======
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 # Efeito Desintegração
 
 ## Edição de pincel
@@ -658,22 +625,16 @@ Tamanho de outdoor 1920 x 1080
 
 ![Adobe Lightroom](img/AdobeLightroom.PNG)
 
-<<<<<<< HEAD
 
 # Tipos de Iluminação
 
 
-=======
-# Tipos de Iluminação
-
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 Existem dois tipos principais de luz: **Natural** e **Artificial**
 
 A **Luz natural**, é toda iluminação proveniente da natureza, como a **luz do sol** ou **da lua**, por exemplo
 
 A **Luz artificial** é obtida através de **equipamentos** e **acessórios** para fotografia
 
-<<<<<<< HEAD
 Natural n usa mt equipamento de iluminacao
 
 Studio precisa de uma iluminação artificial
@@ -681,8 +642,6 @@ Studio precisa de uma iluminação artificial
 **Evitar desfocar a imagem**
 
 
-=======
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 ### LED / Luz Suave
 
 **LED** significa **diodos emissores de luz**. A partir do LED é possível usar:
@@ -699,7 +658,6 @@ Studio precisa de uma iluminação artificial
 
 ![LuzRefletidaXLuzDura](img/LuzRefletidaXLuzDura.PNG)
 
-<<<<<<< HEAD
 ![Luzes](img/Luzes.PNG)
 
 
@@ -725,19 +683,6 @@ Studio precisa de uma iluminação artificial
 
 ![Luzes4](img/Luzes4.PNG)
 
-=======
-### Outros tipo de luzes
-
-![TiposDeLuz.jpg](img/TiposDeLuz.jpg)
-
-### Contra Luz
-### Recorte 3/4
-
-Natural n usa mt equipamento de iluminacao
-Studio precisa de uma iluminação artificial
-
-Evitar desfocar a imagem
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 
 # Enquadramento de Imagens - Regra dos terços 
 
@@ -768,11 +713,8 @@ Ponto secundário - Texto
 
 ![RegraDosTerços](img/RegraDosTercos.png)
 
-<<<<<<< HEAD
 ![RegraDosTerços](img/RegraDosTerços.PNG)
 
-=======
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2
 ![RegraDosTerços2](img/RegraDosTercos2.jpg)
 
 ![RegraDosTerços3](img/RegraDosTercos3.jpg)
@@ -787,11 +729,8 @@ Ponto secundário - Texto
 # Ganhar dinheiro com fotografia
 
 ![DinheiroComFoto](img/DinheiroComFoto.jpg)
-<<<<<<< HEAD
 
 # Social Media
 
 Tamanho Instagram 1080 x 1080
 Tamanho Stories 1920 x 1080
-=======
->>>>>>> 529497464dca0789897574e729e5c043d0dd50a2

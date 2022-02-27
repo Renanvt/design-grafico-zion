@@ -46,6 +46,10 @@
 
 [Adobe Lightroom](#adobe-lightroom)
 
+[Recortes Refinados](#recortes-refinados)
+
+[Efeitos](#efeitos)
+
 # Extensões e Dicas
 
 Plugin do Pexels no photoshop - https://www.pexels.com/pro/

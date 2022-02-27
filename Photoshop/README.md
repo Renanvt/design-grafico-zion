@@ -998,4 +998,4 @@ cor, corte, luz e dentre outras.
 
 ![PassoAPassoEfeitos](img/PassoAPassoEfeitos.PNG)
 
-[👆TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)

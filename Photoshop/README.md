@@ -42,6 +42,9 @@
 
 [Enquadramento de Imagens](#enquadramento-de-imagens---regra-dos-terços)
 
+[SocialMedia](#social-media)
+
+[Adobe Lightroom](#adobe-lightroom)
 
 # Extensões e Dicas
 
@@ -844,6 +847,8 @@ Studio precisa de uma iluminação artificial
 
 ![LuzRefletidaXLuzDura](img/LuzRefletidaXLuzDura.PNG)
 
+![Rebatedor](img/Rebatedor.PNG)
+
 ![Luzes](img/Luzes.PNG)
 
 
@@ -912,7 +917,7 @@ Ponto secundário - Texto
 ![RegraDosTerços6](img/RegraDosTercos6.jpg)
 
 
-# Ganhar dinheiro com fotografia
+### Ganhar dinheiro com fotografia
 
 ![DinheiroComFoto](img/DinheiroComFoto.jpg)
 
@@ -921,3 +926,31 @@ Ponto secundário - Texto
 Tamanho Instagram 1080 x 1080
 
 Tamanho Stories 1920 x 1080
+
+# Adobe Lightroom
+
+O **Lightroom** não mexe nos
+pixels das suas imagens em si,
+ele **adiciona um filtro** que pode
+ser aplicado em várias fotos em
+pouco tempo.
+
+Por se tratar de um filtro, é
+muito fácil desfazer um efeito
+aplicado.
+
+● **EDITAR** = **DECUPAR** → Fazer a
+triagem, sem alterar o arquivo
+cru (original).
+
+● **TRATAMENTO** = **ALTERAR** →
+Realiza alterações na foto como
+cor, corte, luz e dentre outras.
+
+![ExemploLightroom](img/ExemploLightroom.PNG)
+
+![ExemploLightroom2](img/ExemploLightroom2.PNG)
+
+![ExemploLighroom3](img/ExemploLightroom3.PNG)
+
+![GranaLightroom](img/GranaLightroom.PNG)

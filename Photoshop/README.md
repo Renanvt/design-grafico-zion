@@ -977,6 +977,20 @@ Por se tratar de um filtro, é
 muito fácil desfazer um efeito
 aplicado.
 
+### Algumas lentes de câmeras podem distorçer as fotos, para ajustar:
+
+1. Correção da lente
+
+2. Ativar correções de perfil
+
+### Configuração para não ter perda de qualidade quando for postar no instagram
+
+1. Redimensionamento da imagem
+
+2. Redimensionar para ajustar: **Área longa**
+**2048 px**
+Resolução: **300** pixels por polegada
+
 ● **EDITAR** = **DECUPAR** → Fazer a
 triagem, sem alterar o arquivo
 cru (original).
@@ -1010,6 +1024,30 @@ cor, corte, luz e dentre outras.
 ![GranaFlyer](img/GranaFlyer.PNG)
 
 ![PassoAPassoRefinamento](img/PassoAPassoRefinamento.PNG)
+
+### Seleção de Objeto
+
+1. Seleção de Objeto
+
+2. Selecionar -> Modificar -> Contração
+
+3. Colocar 2px para não pegar a borda branca
+
+### Corrigir áreas na seleção avançada
+
+1. Criar uma cor sólida (azul) por traz da imagem
+
+2. Criar uma camada vazia e segurar ALT para criar a mascara de corte sobre a imagem
+
+3. Trocar o modo de mesclagem para cor mais escura
+
+4. Ferramenta Carimbo -> AM: At/Ab
+
+5. Passar com a ferramenta Carimbo nas arestas mais brancas do cabelo
+
+6. Diminuir/Aumentar a opacidade
+
+7. Salvar como PSD e depois utilizar em outro arquivo como Objeto Inteligente
 
 # [👆 TÓPICOS](#tópicos)
 

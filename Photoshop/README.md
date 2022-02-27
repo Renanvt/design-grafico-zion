@@ -137,6 +137,7 @@ Gama - Da um terceiro acabamento nas cores, valorizando as sombras
 
 4. Vou na imagem apagada -> Ajuste -> Exposição
 
+# [👆 TÓPICOS](#tópicos)
 
 # Limpeza de Cena
 
@@ -158,7 +159,6 @@ Fotografia?
 
 ### Usar preenchimento com reconhecimento de conteúdo
 
-
 1. Criar uma seleção (ferramenta laço) em volta da mulher (não precisa ser exata )
 2. Editar - preenchimento com reconhecimento de conteúdo 
 3. Selecionar as duas - converter em objeto inteligente
@@ -173,6 +173,8 @@ Essa remoção gera uma copia da imagem com a mulher (cobertura)
 Função pra ser usada com combinação com outras técnicas 
 
 ![Deserto](img/Deserto.jpg)
+
+# [👆 TÓPICOS](#tópicos)
 
 # Manipulação de Imagens
 
@@ -204,6 +206,7 @@ Aplicação
 
 Posso converter em objeto inteligente ou copiar e colar em outro arquivo 
 
+# [👆 TÓPICOS](#tópicos)
 
 # Integrando elementos
 
@@ -232,6 +235,8 @@ Para colocar uma foto sem danifica-la arrasto ela e dimensiono segurando o **alt
 
 ![IntegrandoElementos](img/IntegrandoElementos.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Camera Raw
 
 1. Seleciona todos os grupos e cria una nova camada (**ctrl + alt + shift + e**)
@@ -248,6 +253,8 @@ Luminescencia - intensificacao da luz, suaviza a textura
 ![CameraRaw3](img/CameraRaw3.jpg)
 
 ![CameraRaw4](img/CameraRaw4.jpg)
+
+# [👆 TÓPICOS](#tópicos)
 
 # Máscara de Camada
 
@@ -270,6 +277,8 @@ O que eu quero **revelar** eu pinto de **branco**
 
 Banco de imagens
 Pixabay 
+
+# [👆 TÓPICOS](#tópicos)
 
 # Criar um mockup
 
@@ -393,6 +402,8 @@ Com a camisa ja inserida no photoshop:
 
 ![MapaDeMesclagem](img/mapa_de_mesclagem.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Tipografia
 
 **font duo** - Combinacao de fonte serifada com sans serif
@@ -425,6 +436,9 @@ A partir de R$12 por composição
 - Helvetica
 
 - Bebas (indicado pra artes digitais)
+
+# [👆 TÓPICOS](#tópicos)
+
 # Criando grafismos com pincéis
 
 ### Utilizado em: 
@@ -451,6 +465,8 @@ Aprenda o básico e entenda quanto poderá ganhar com
 
 ![CardápioFrente](img/fulano-projeto-cardapio.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Thumbnail Photoshop
 
 Tamanho 1280 x 720
@@ -460,12 +476,15 @@ Tamanho 1280 x 720
 ![Thumbnail3](img/Thumbnail3.jpg)
 ![Thumbnail4](img/Thumbnail4.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Capa pra youtube
 
 Tamanho 906,64 mm x 508 mm
 
 ![CapaYoutube](img/CapaYoutube.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Efeito Dupla Exposição
 
@@ -513,6 +532,8 @@ Mistura Sólida
 4. Modo de mesclagem -> Escolhe o modo de mesclagem ideal
    
 5. Ferramenta pinçel e pinte de preto sobre a máscara de camada para escureçer
+
+# [👆 TÓPICOS](#tópicos)
 
 # Restauração de Foto
 
@@ -584,6 +605,8 @@ A camada cores irá conter todas as camadas de ajuste de cada elemento. Seja ele
 
 ![Restauração de Foto](img/Restauracao-de-foto.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Camera RAW - Tratamento de Pele
 
 Um arquivo **RAW** possui todas as informações que um sensor conseguiu capturar na hora da foto, possibilitando alterar mais detalhadamente no camera raw
@@ -643,6 +666,8 @@ Posso remover a textura dos locais sem prejudicar as cores da imagem
 
 ![TratamentoDePele2](img/TratamentoDePele_2_766x766.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Ferramenta liquify
 
 A partir de R$50
@@ -657,6 +682,8 @@ Reconhecer o traço mais marcante da pessoa e da um exagero
 
 1920 x 1080 px
 
+# [👆 TÓPICOS](#tópicos)
+
 # Efeito Desintegração
 
 ## Edição de pincel
@@ -670,7 +697,6 @@ Reconhecer o traço mais marcante da pessoa e da um exagero
 **Dinâmica de forma** - espalha o pincel a medifa que eubfor passando
 
 **Textura** - faz com que o pincel fique mais denso
-
 
 ## Sites de pincel
 
@@ -739,6 +765,8 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 
 ![ThanosMópola](img/Thanos-Manópola.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Efeito Duotone e Lotes
 
 ![EfeitoDuotone](img/EfeitoDuotone.PNG)
@@ -765,12 +793,13 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 
 ![AçõesELote2](img/AcoesELote2.PNG)
 
-
 ### Automatizar Lotes
 
 ![Lote](img/Lote.jpg)
 
 ![AutomatizarLotes](img/AutomatizarLotes.jpg)
+
+# [👆 TÓPICOS](#tópicos)
 
 # Fotometria
 
@@ -816,9 +845,9 @@ Tamanho de outdoor 1920 x 1080
 
 ![Adobe Lightroom](img/AdobeLightroom.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Tipos de Iluminação
-
 
 Existem dois tipos principais de luz: **Natural** e **Artificial**
 
@@ -878,6 +907,7 @@ Studio precisa de uma iluminação artificial
 
 ![Luzes4](img/Luzes4.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Enquadramento de Imagens - Regra dos terços 
 
@@ -925,11 +955,15 @@ Ponto secundário - Texto
 
 ![DinheiroComFoto](img/DinheiroComFoto.jpg)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Social Media
 
 Tamanho Instagram 1080 x 1080
 
 Tamanho Stories 1920 x 1080
+
+# [👆 TÓPICOS](#tópicos)
 
 # Adobe Lightroom
 
@@ -959,6 +993,8 @@ cor, corte, luz e dentre outras.
 
 ![GranaLightroom](img/GranaLightroom.PNG)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Recortes refinados
 
 ![SelecaoAvancada](img/SelecaoAvancada.PNG)
@@ -975,6 +1011,7 @@ cor, corte, luz e dentre outras.
 
 ![PassoAPassoRefinamento](img/PassoAPassoRefinamento.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Efeitos
 

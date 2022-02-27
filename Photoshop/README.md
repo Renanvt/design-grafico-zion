@@ -954,3 +954,42 @@ cor, corte, luz e dentre outras.
 ![ExemploLighroom3](img/ExemploLightroom3.PNG)
 
 ![GranaLightroom](img/GranaLightroom.PNG)
+
+# Recortes refinados
+
+![SelecaoAvancada](img/SelecaoAvancada.PNG)
+
+![RefinamentoDeSelecao.PNG](img/RefinamentoDeSelecao.PNG)
+
+![SelecionarEMascarar](img/SelecionarEMascarar.PNG)
+
+![ExemplosBonsRefinamento](img/ExemplosBonsRefinamento.PNG)
+
+![ExemplosRuinsRefinamento](img/ExemplosRuinsRefinamento.PNG)
+
+![GranaFlyer](img/GranaFlyer.PNG)
+
+![PassoAPassoRefinamento](img/PassoAPassoRefinamento.PNG)
+
+
+# Efeitos
+
+![Efeitos](img/Efeitos.PNG)
+
+![EfeitosFerramenta](img/EfeitosFerramentas.PNG)
+
+![Efeitos2](img/Efeitos2.PNG)
+
+![EstilosDeCamadas](img/EstilosDeCamadas.PNG)
+
+![ExemplosBonsEfeitos](img/ExemplosBonsEfeitos.PNG)
+
+![ExemplosBonsEfeitos2](img/ExemplosBonsEfeitos2.PNG)
+
+![ExemplosBonsEfeitos3](img/ExemplosBonsEfeitos3.PNG)
+
+![ExemplosRuinsEfeitos](img/ExemplosRuinsEfeitos.PNG)
+
+![DinheiroEfeitos](img/DinheiroEfeitos.PNG)
+
+![PassoAPassoEfeitos](img/PassoAPassoEfeitos.PNG)

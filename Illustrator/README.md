@@ -36,6 +36,12 @@
 
 [Projeção Áurea](#projeção-áurea)
 
+# Dicas
+
+### Tamanho de Logos 
+
+https://www.logaster.com.br/blog/logo-sizes/#:~:text=Na%20maioria%20das%20vezes%2C%20250,os%20dois%20layouts%20mais%20comuns
+
 # Vitrine de Projetos
 
 [Behance](https://www.behance.net/)

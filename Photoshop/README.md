@@ -50,6 +50,10 @@
 
 [Efeitos](#efeitos)
 
+[Carrosel de Imagens](#carrosel-de-imagens)
+
+[Redes sociais - Animação e vídeo](#redes-sociais---animação-e-vídeo)
+
 # Extensões e Dicas
 
 Plugin do Pexels no photoshop - https://www.pexels.com/pro/
@@ -1074,3 +1078,29 @@ cor, corte, luz e dentre outras.
 ![PassoAPassoEfeitos](img/PassoAPassoEfeitos.PNG)
 
 # [👆 TÓPICOS](#tópicos)
+
+# Carrosel de imagens
+
+1 - Criar um arquivo com 1080*(quantidade de imagens) x 1080
+
+2 - CTRL + R para habilitar a régua
+
+3 - Clicka com o botão direito na régua e muda para porcentagem
+
+4 - Pega a régua da esquerda e coloca ela em 50% (metade) ou Visualizar -> novo layout de guias -> Colunas -> 2
+
+5 - Ferramenta fatia -> Fatiar a partir de guias
+
+6 - Arquivo -> exportar -> Salvar para web
+
+# [👆 TÓPICOS](#tópicos)
+
+# Redes Sociais - Animação e Vídeo
+
+1 - Janela -> Linha do tempo
+
+2 - Adicionar os efeitos conforme desejado
+
+3 - Exportar - Aplicar renderização em vídeo 
+
+4 - Escolher o formato H.264

@@ -1,0 +1,9 @@
+1 - Cria um texto BOLD
+
+2 - 3D -> Nova Extrusão 3D da camada selecionada
+
+3 - Cria o texto 3D
+
+4 - Clicka com o botão direito sobre a camada e em seguido Renderizar 3D
+
+Ao clickar em Rasterizar 3D, irá rasterizar a camada em PNG

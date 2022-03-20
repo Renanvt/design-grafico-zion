@@ -48,7 +48,7 @@
 
 ![BrandingProjetosUI](img/BrandingProjetosUI.png)
 
-# Logotipos e LogotiposeLogomarcas
+# Logotipos e Logomarcas
 
 ![LogotiposeLogomarcas](img/LogotiposeLogomarcas.jpg)
 

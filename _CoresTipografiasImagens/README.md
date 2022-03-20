@@ -8,43 +8,43 @@
 
 # Tipografia
 
-![Descrevendo o tipo](DescrevendoOTipo.jpg)
+![Descrevendo o tipo](img/DescrevendoOTipo.jpg)
 
-![Fontes](Fontes.jpg)
+![Fontes](img/Fontes.jpg)
 
-![Tipografia](Tipografia.jpg)
+![Tipografia](img/Tipografia.jpg)
 
-![Tipografia2](Tipografia2.jpg)
+![Tipografia2](img/Tipografia2.jpg)
 
 # [👆 TÓPICOS](#tópicos)
 
 # Imagens
 
-![Imagens](Imagens.jpg)  
+![Imagens](img/Imagens.jpg)  
 
-![Tipo de Imagens](TiposDeImagens.jpg)
+![Tipo de Imagens](img/TiposDeImagens.jpg)
 
-![Extensão de Imagens](ExtensõesDeImagens.jpg)
+![Extensão de Imagens](img/ExtensõesDeImagens.jpg)
 
-![Extensão de Imagens2](ExtensõesDeImagens2.png)
+![Extensão de Imagens2](img/ExtensõesDeImagens2.png)
 
-![Extensão de Imagens3](ExtensõesDeImagens3.png) 
+![Extensão de Imagens3](img/ExtensõesDeImagens3.png) 
 
-![Resolução](Resolução.jpg) 
+![Resolução](img/Resolução.jpg) 
 
 # [👆 TÓPICOS](#tópicos)
 
 # Cores
 
-![Roda de Cores](RodaDeCores.jpg)
+![Roda de Cores](img/RodaDeCores.jpg)
 
-![Psicologia da Cor](PsicologiaDaCor.jpg)  
+![Psicologia da Cor](img/PsicologiaDaCor.jpg)  
 
-![Semiótica](Semiótica.jpg)
+![Semiótica](img/Semiótica.jpg)
 
-![Temperatura da Cor](TemperaturaDaCor.jpg)
+![Temperatura da Cor](img/TemperaturaDaCor.jpg)
 
-![Valor da Cor](ValorDaCor.jpg)
+![Valor da Cor](img/ValorDaCor.jpg)
 
 # [👆 TÓPICOS](#tópicos)
 

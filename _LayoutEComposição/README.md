@@ -43,51 +43,51 @@
 # Grids
 
 # Diagramação 
-![Diagramação](img/Diagramação.png)
+![Diagramação](img/Grids/Diagramação.png)
 
-![Grid1](img/Grid1.png)
+![Grid1](img/Grids/Grid1.png)
 
-![Grid2](img/Grid2.png)
+![Grid2](img/Grids/Grid2.png)
 
-![Grid3](img/Grid3.png)
+![Grid3](img/Grids/Grid3.png)
 
 # Áreas
-![Grid-ÁreasDeRespitoERitmoDeLeitura](img/Grid-ÁreasDeRespitoERitmoDeLeitura.png)
+![Grid-ÁreasDeRespitoERitmoDeLeitura](img/Grids/Grid-ÁreasDeRespitoERitmoDeLeitura.png)
 
-![Grid-CentroÒtico](img/Grid-CentroÒtico.png)            
+![Grid-CentroÒtico](img/Grids/Grid-CentroÒtico.png)            
 
-![Grid-ColunasLinhas](img/Grid-ColunasLinhas.png)
+![Grid-ColunasLinhas](img/Grids/Grid-ColunasLinhas.png)
 
-![Grid-ComoUtilizar](img/Grid-ComoUtilizar.png)
+![Grid-ComoUtilizar](img/Grids/Grid-ComoUtilizar.png)
 
 # Tipos de Grid
-![GridTipos-UmaColuna](img/GridTipos-UmaColuna.png)
+![GridTipos-UmaColuna](img/Grids/GridTipos-UmaColuna.png)
 
-![GridTipos-DuasColunas](img/GridTipos-DuasColunas.png)
+![GridTipos-DuasColunas](img/Grids/GridTipos-DuasColunas.png)
 
-![GridTipos-MultiplasColunas](img/GridTipos-MultiplasColunas.png)
+![GridTipos-MultiplasColunas](img/Grids/GridTipos-MultiplasColunas.png)
 
-![GridDe12Colunas](img/GridDe12Colunas.png)
+![GridDe12Colunas](img/Grids/GridDe12Colunas.png)
 
-![GridTipos-Hierárquico](img/GridTipos-Hierárquico.png)
+![GridTipos-Hierárquico](img/Grids/GridTipos-Hierárquico.png)
 
-![GridTipos-Modular](img/GridTipos-Modular.png)
+![GridTipos-Modular](img/Grids/GridTipos-Modular.png)
 
-![Grid-GuttersMarcadores](img/Grid-GuttersMarcadores.png)
+![Grid-GuttersMarcadores](img/Grids/Grid-GuttersMarcadores.png)
 
-![Grid-MódulosZonasEspeciais](img/Grid-MódulosZonasEspeciais.png)  
+![Grid-MódulosZonasEspeciais](img/Grids/Grid-MódulosZonasEspeciais.png)  
 
 
 # Técnicas de Grid
-![Grid-TécnicaDoH](img/Grid-TécnicaDoH.png)
+![Grid-TécnicaDoH](img/Grids/Grid-TécnicaDoH.png)
 
-![Grid-TécnicaDoI](img/Grid-TécnicaDoI.png)             
+![Grid-TécnicaDoI](img/Grids/Grid-TécnicaDoI.png)             
 
-![Grid-TécnicaDoL](img/Grid-TécnicaDoL.png)             
+![Grid-TécnicaDoL](img/Grids/Grid-TécnicaDoL.png)             
 
-![Grid-TécnicaDoT](img/Grid-TécnicaDoT.png)             
+![Grid-TécnicaDoT](img/Grids/Grid-TécnicaDoT.png)             
 
-![Grid-TécnicaDoU](img/Grid-TécnicaDoU.png)             
+![Grid-TécnicaDoU](img/Grids/Grid-TécnicaDoU.png)             
 
 
-![Grid-TénicaDeSuporte](img/Grid-TénicaDeSuporte.png)
+![Grid-TénicaDeSuporte](img/Grids/Grid-TénicaDeSuporte.png)

@@ -1,0 +1,58 @@
+Cria um retângulo e pinte de uma cor
+
+Coloque o retângulo como objeto inteligente
+
+Coloque o retângulo sobre a imagem a ser mockada
+
+CTRL + T
+PERSPECTIVA
+
+CTRL + T
+INCLINAR
+
+CTRL + T
+CTRL e arrasto os vértices
+
+Modo de mesclagem multiplicação no retângulo
+
+Abro o retângulo, insiro a imagem e salvo
+
+Posso utilizar a ferramentar deformar
+
+SEGUNDA OPÇÃO - CANECA
+
+Cria um retângulo e pinte de uma cor
+
+Coloque o retângulo como objeto inteligente
+
+Coloque o retângulo sobre a imagem a ser mockada
+
+Clicko na IMAGEM e seleciono a parte da imagem que será aplicada o mockup
+
+Crio uma máscara de camada na IMAGEM
+
+Clicko no retangulo inteligente
+
+Crio um novo layout de guias. Exemplo 5 linhas, 5 colunas
+
+Crio uns retângulo pequeno como se fosse uma linha sobre as guias - linhas e as colunas
+
+Salvo o objeto inteligente
+
+Vou no RETANGULO
+
+Clicko no clip para desvincular a máscara da camada
+
+CTRL + T -> Deformar
+
+Posiciona os pontos de deformação e as alçãs próximos as extremidades da IMAGEM
+
+Puxa as alças até chegar a um resultado coerente
+
+Clicko no retângulo e vou em Estilo de camada
+
+Vou em mesclar posiciono as sobras e os highlighsts de modo que fique cinza nas bordas
+
+Troco o modo de mesclagem do retangulo para multiplicação (opcional)
+
+Clicko sobre o objeto inteligente -> Agrupo e escondo oque estiver dentro -> Arrasto a imagem a ser mockada pra lá

@@ -1,0 +1,5 @@
+Visualizar -> Novo Layout de Guias -> Colunas 12, largura 0, Midianiz 40px
+
+Faço o wireframe utilizando formas
+
+Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que sejam aplicadas as imagens

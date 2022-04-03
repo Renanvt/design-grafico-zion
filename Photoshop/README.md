@@ -1079,7 +1079,59 @@ cor, corte, luz e dentre outras.
 
 # [👆 TÓPICOS](#tópicos)
 
-# Carrosel de imagens
+
+# Redes Sociais - Feed e Stories
+
+**Tópicos**
+
+1. Funções do Feed e do Stories
+
+2. Tamanhos de Feed
+
+3. Tamanho de Stories
+
+4. Criação e Adaptação
+de Social Media
+
+![SocialMedia](img/SocialMedia.PNG)
+
+![Feed](img/Feed.PNG)
+
+![Stories](img/Stories.PNG)
+
+![TamanhosEPostagens](img/TamanhosEPostagens.PNG)
+
+![TamanhosDePostagens](img/TamanhosDePostagens.PNG)
+
+![ExemplosBonsRedesSociais](img/ExemplosBonsRedesSociais.PNG)
+
+![ExemplosBonsRedesSociais2](img/ExemplosBonsRedesSociais2.PNG)
+
+![ExemplosRuinsRedesSociais](img/ExemplosRuinsRedesSociais.PNG)
+
+![GranaSocialMedia](img/GranaSocialMedia.PNG)
+
+![PassoAPassoRedesSociais](img/PassoAPassoRedesSociais.PNG)
+
+# [👆 TÓPICOS](#tópicos)
+
+# Redes Sociais - Carrosel de Imagens
+
+![CarroselDeImagens](img/CarroselDeImagens.PNG)
+
+![FerramentaCarroselDeImagens](img/FerramentaCarroselDeImagens.PNG)
+
+![OqueÉCarroselDeImagens](img/Oque%C3%89CarroselDeImagens.PNG)
+
+![ExemplosBonsCarrosel](img/ExemplosBonsCarrosel.PNG)
+
+![ExemplosBonsCarrosel2](img/ExemplosBonsCarrosel2.PNG)
+
+![ExemplosRuinsCarrosel](img/ExemplosRuinsCarrosel.PNG)
+
+![GranaCarrosel](img/GranaCarrosel.PNG)
+
+![PassoAPassoCarrosel](img/PassoAPassoCarrosel.PNG)
 
 1 - Criar um arquivo com 1080*(quantidade de imagens) x 1080
 
@@ -1095,7 +1147,21 @@ cor, corte, luz e dentre outras.
 
 # [👆 TÓPICOS](#tópicos)
 
-# Redes Sociais - Animação e Vídeo
+# Redes Sociais - Stories Animados
+
+![StoriesAnimados](img/StoriesAnimados.PNG)
+
+**Tòpicos**
+
+1. Criação de Keyframe
+
+2. Linha do Tempo de Vídeo
+
+3. Controle de Animação
+
+4. Painel de Animação
+
+![LinhaDeTempoDeVideo](img/LinhaDeTempoDeVideo.PNG)
 
 1 - Janela -> Linha do tempo
 
@@ -1104,3 +1170,5 @@ cor, corte, luz e dentre outras.
 3 - Exportar - Aplicar renderização em vídeo 
 
 4 - Escolher o formato H.264
+
+# [👆 TÓPICOS](#tópicos)

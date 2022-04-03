@@ -52,7 +52,12 @@
 
 [Carrosel de Imagens](#carrosel-de-imagens)
 
-[Redes sociais - Animação e vídeo](#redes-sociais---animação-e-vídeo)
+[Redes Sociais - Feed e Stories](#redes-sociais---feed-e-stories)
+
+[Redes Sociais - Carrosel de Imagens](#redes-sociais---carrosel-de-imagens)
+
+[Redes sociais - Stories Animados](#redes-sociais---stories-animados)
+
 
 # Extensões e Dicas
 
@@ -1078,7 +1083,6 @@ cor, corte, luz e dentre outras.
 ![PassoAPassoEfeitos](img/PassoAPassoEfeitos.PNG)
 
 # [👆 TÓPICOS](#tópicos)
-
 
 # Redes Sociais - Feed e Stories
 

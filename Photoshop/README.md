@@ -1176,3 +1176,90 @@ de Social Media
 4 - Escolher o formato H.264
 
 # [👆 TÓPICOS](#tópicos)
+
+# Efeito Parallax
+
+![Parallax1](gif/Parallax1.gif)
+
+# Texto 3D
+
+1 - Cria um texto BOLD
+
+2 - 3D -> Nova Extrusão 3D da camada selecionada
+
+3 - Cria o texto 3D
+
+4 - Clicka com o botão direito sobre a camada e em seguido Renderizar 3D
+
+Ao clickar em Rasterizar 3D, irá rasterizar a camada em PNG
+
+# Layout Web
+
+Visualizar -> Novo Layout de Guias -> Colunas 12, largura 0, Midianiz 40px
+
+Faço o wireframe utilizando formas
+
+Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que sejam aplicadas as imagens
+
+# Ferramenta distorção
+
+PRIMEIRA OPÇÃO
+
+1. Cria um retângulo e pinte de uma cor
+
+2. Coloque o retângulo como objeto inteligente
+
+3. Coloque o retângulo sobre a imagem a ser mockada
+
+CTRL + T
+PERSPECTIVA
+
+CTRL + T
+INCLINAR
+
+CTRL + T
+CTRL e arrasto os vértices
+
+4. Modo de mesclagem multiplicação no retângulo
+
+5. Abro o retângulo, insiro a imagem e salvo
+
+6. Posso utilizar a ferramentar deformar
+
+SEGUNDA OPÇÃO - CANECA
+
+1. Cria um retângulo e pinte de uma cor
+
+2. Coloque o retângulo como objeto inteligente
+
+3. Coloque o retângulo sobre a imagem a ser mockada
+
+4. Clicko na IMAGEM e seleciono a parte da imagem que será aplicada o mockup
+
+5. Crio uma máscara de camada na IMAGEM
+
+6. Clicko no retangulo inteligente
+
+7. Crio um novo layout de guias. Exemplo 5 linhas, 5 colunas
+
+8. Crio uns retângulo pequeno como se fosse uma linha sobre as guias - linhas e as colunas
+
+9. Salvo o objeto inteligente
+
+10. Vou no RETANGULO
+
+11. Clicko no clip para desvincular a máscara da camada
+
+12. CTRL + T -> Deformar
+
+13. Posiciona os pontos de deformação e as alçãs próximos as extremidades da IMAGEM
+
+14. Puxa as alças até chegar a um resultado coerente
+
+15. Clicko no retângulo e vou em Estilo de camada
+
+16. Vou em mesclar posiciono as sobras e os highlighsts de modo que fique cinza nas bordas
+
+17. Troco o modo de mesclagem do retangulo para multiplicação (opcional)
+
+18. Clicko sobre o objeto inteligente -> Agrupo e escondo oque estiver dentro -> Arrasto a imagem a ser mockada pra lá

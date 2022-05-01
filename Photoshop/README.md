@@ -1181,6 +1181,18 @@ de Social Media
 
 ![Parallax1](gif/Parallax1.gif)
 
+![Parallax2](gif/Parallax2.gif)
+
+![MapaDeProfundidade](img/MapaDeProfundidade.PNG)
+
+![Parallax3](gif/Parallax3.gif)
+
+![ParallaxRuim](gif/ParallaxRuim1.gif)
+
+![GranaParallax](img/GranaParallax.PNG)
+
+![PassoAPassoParallax](img/PassoAPassoParallax.PNG)
+
 # Texto 3D
 
 1 - Cria um texto BOLD

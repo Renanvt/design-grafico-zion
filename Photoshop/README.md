@@ -58,6 +58,17 @@
 
 [Redes sociais - Stories Animados](#redes-sociais---stories-animados)
 
+[Efeito Parallax](#efeito-parallax)
+
+[Texto 3D](#texto-3d)
+
+[Ferramenta Distorção](#ferramenta-distorção)
+
+[Layout Web](#layout-web)
+
+[Finalizando Site](#finalizando-site)
+
+[Projeto Final](#projeto-final)
 
 # Extensões e Dicas
 
@@ -1193,6 +1204,8 @@ de Social Media
 
 ![PassoAPassoParallax](img/PassoAPassoParallax.PNG)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Texto 3D
 
 ![Texto3D-1](img/Texto3D-1.PNG)
@@ -1223,6 +1236,7 @@ de Social Media
 
 Ao clickar em Rasterizar 3D, irá rasterizar a camada em PNG
 
+# [👆 TÓPICOS](#tópicos)
 
 # Ferramenta distorção
 
@@ -1300,6 +1314,8 @@ CTRL e arrasto os vértices
 
 18. Clicko sobre o objeto inteligente -> Agrupo e escondo oque estiver dentro -> Arrasto a imagem a ser mockada pra lá
 
+# [👆 TÓPICOS](#tópicos)
+
 # Layout Web
 
 ### Tópicos
@@ -1336,12 +1352,13 @@ CTRL e arrasto os vértices
 
 ![PassoAPassoLayout](img/PassoAPassoLayout.PNG)
 
-
 Visualizar -> Novo Layout de Guias -> Colunas 12, largura 0, Midianiz 40px
 
 Faço o wireframe utilizando formas
 
 Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que sejam aplicadas as imagens
+
+# [👆 TÓPICOS](#tópicos)
 
 # Finalizando Site
 
@@ -1359,6 +1376,8 @@ Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que 
 
 ![PassoAPassoSite](img/PassoAPassoSite.PNG)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Projeto Final
 
 ![ProjetoFinal](img/ProjetoFinal.PNG)
@@ -1370,3 +1389,5 @@ Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que 
 ![Referencia3](img/Referencia3.PNG)
 
 ![Referencia4](img/Referencia4.PNG)
+
+# [👆 TÓPICOS](#tópicos)

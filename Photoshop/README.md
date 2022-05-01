@@ -1195,6 +1195,24 @@ de Social Media
 
 # Texto 3D
 
+![Texto3D-1](img/Texto3D-1.PNG)
+
+![Texto3D-2](img/Texto3D-2.PNG)
+
+![Texto3D-3](img/Texto3D-3.PNG)
+
+![Texto3D-4](img/Texto3D-4.PNG)
+
+![Texto3D-5](img/Texto3D-5.PNG)
+
+![Texto3D-6](img/Texto3D-6.PNG)
+
+![Texto3D-7](img/Texto3D-7.PNG)
+
+![Texto3D-8](img/Texto3D-8.PNG)
+
+![Texto3D-PassoAPasso](img/Texto3D-PassoAPasso.PNG)
+
 1 - Cria um texto BOLD
 
 2 - 3D -> Nova Extrusão 3D da camada selecionada
@@ -1205,17 +1223,23 @@ de Social Media
 
 Ao clickar em Rasterizar 3D, irá rasterizar a camada em PNG
 
-# Layout Web
-
-Visualizar -> Novo Layout de Guias -> Colunas 12, largura 0, Midianiz 40px
-
-Faço o wireframe utilizando formas
-
-Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que sejam aplicadas as imagens
 
 # Ferramenta distorção
 
-PRIMEIRA OPÇÃO
+![Distorção](img/DistorcaoEmPerspectiva.PNG)
+
+![Distorção1](img/Distorcao1.PNG)
+
+![Distorção2](img/Distorcao2.PNG)
+
+![Distorção3](img/Distorcao3.PNG)
+
+![DistorçãoRuim](img/DistorcaoRuim.PNG)
+
+![PassoAPassoDistorcao](img/PassoAPassoDistorcao.PNG)
+
+
+### PRIMEIRA OPÇÃO
 
 1. Cria um retângulo e pinte de uma cor
 
@@ -1238,7 +1262,7 @@ CTRL e arrasto os vértices
 
 6. Posso utilizar a ferramentar deformar
 
-SEGUNDA OPÇÃO - CANECA
+### SEGUNDA OPÇÃO - CANECA
 
 1. Cria um retângulo e pinte de uma cor
 
@@ -1275,3 +1299,74 @@ SEGUNDA OPÇÃO - CANECA
 17. Troco o modo de mesclagem do retangulo para multiplicação (opcional)
 
 18. Clicko sobre o objeto inteligente -> Agrupo e escondo oque estiver dentro -> Arrasto a imagem a ser mockada pra lá
+
+# Layout Web
+
+### Tópicos
+
+1. Layout Web
+
+2. Estrutura de Um Site
+
+3. Tipos de Sites
+
+4. Criação de Site
+
+![Site1](gif/Site1.gif)
+
+![Site2](gif/Site2.gif)
+
+![LandingPage](img/LandingPage.PNG)
+
+![LandingPageExemplo](img/LandingPageExemplo.PNG)
+
+![Institucional](img/Institucional.PNG)
+
+![InstitucionalExemplo](img/InstitucionalExemplo.PNG)
+
+![LojaVirtual](img/LojaVirtual.PNG)
+
+![LojaVirtualExemplo](img/LojaVirtualExemplo.PNG)
+
+![One-Page](img/One-Page.PNG)
+
+![Exemplo-Ruim-Site](img/ExemploRuimSite.PNG)
+
+![GranaSite](img/GranaLayout.PNG)
+
+![PassoAPassoLayout](img/PassoAPassoLayout.PNG)
+
+
+Visualizar -> Novo Layout de Guias -> Colunas 12, largura 0, Midianiz 40px
+
+Faço o wireframe utilizando formas
+
+Com a ferramenta quadro - atalho K - vou inserindo ela sobre as formas para que sejam aplicadas as imagens
+
+# Finalizando Site
+
+![FinalizandoSite1](img/FinalizandoSite1.PNG)
+
+![FinalizandoSite2](img/FinalizandoSite2.PNG)
+
+![Responsividade](gif/Responsividade1.gif)
+
+![ExemploBomSite](img/SiteExemplos.PNG)
+
+![ExemploBomSite2](img/SiteExemplos2.PNG)
+
+![GranaSite](img/GranaSite.PNG)
+
+![PassoAPassoSite](img/PassoAPassoSite.PNG)
+
+# Projeto Final
+
+![ProjetoFinal](img/ProjetoFinal.PNG)
+
+![Referencia1](img/Referencia1.PNG)
+
+![Referencia2](img/Referencia2.PNG)
+
+![Referencia3](img/Referencia3.PNG)
+
+![Referencia4](img/Referencia4.PNG)

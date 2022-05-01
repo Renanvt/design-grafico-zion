@@ -6,6 +6,8 @@
 
 [Gerando interações com botões](#gerando-interações-com-botões)
 
+[Animando Elementos Book](#animando-elementos-book)
+
 # Introdução Indesign
 
 ![BookFotográfico](img/BookFotografico.jpeg)

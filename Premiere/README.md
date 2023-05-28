@@ -12,6 +12,6 @@
 
 # Gráficos Essenciais
 
-[Imgur](https://i.imgur.com/uualFV8.jpg)
+![Imgur](https://i.imgur.com/uualFV8.jpg)
 
-[Imgur](https://i.imgur.com/Vylt0lZ.jpg)
+![Imgur](https://i.imgur.com/Vylt0lZ.jpg)

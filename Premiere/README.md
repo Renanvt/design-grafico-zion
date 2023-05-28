@@ -1,20 +1,24 @@
-# [👆 TÓPICOS](#tópicos)
 
-[PROXY](#PROXY)
 
-[Presets](#Presets)
+# Tópicos
 
-[Gráficos Essenciais](#GráficosEssenciais)
+[Gráficos Essenciais](#gráficos-essenciais)
 
-[Publicação Amazon]
+[Presets](#presets)
 
-[Lower Third]
+[Publicação Amazon](#publicação-amazon)
+
+[PROXY](#proxy)
+
+[Lower Third](#lower-third)
 
 # Gráficos Essenciais
 
 ![Imgur](https://i.imgur.com/uualFV8.jpg)
 
 ![Imgur](https://i.imgur.com/Vylt0lZ.jpg)
+
+# [👆 TÓPICOS](#-tópicos)
 
 # Presets
 
@@ -39,6 +43,15 @@
 ![Imgur](https://i.imgur.com/h5vLUAS.jpg)
 
 ![Imgur](https://i.imgur.com/Vo9jFpv.jpg)
+
+# Lower Third
+
+![Imgur](https://i.imgur.com/Fntpvex.jpg)
+
+![Imgur](https://i.imgur.com/wafigS0.jpg)
+
+![Imgur](https://i.imgur.com/WNSfFxF.jpg)
+
 
 ![Imgur](https://i.imgur.com/6PwfSia.jpg)
 

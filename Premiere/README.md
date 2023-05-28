@@ -1,5 +1,4 @@
 
-
 # Tópicos
 
 [Gráficos Essenciais](#gráficos-essenciais)
@@ -18,7 +17,7 @@
 
 ![Imgur](https://i.imgur.com/Vylt0lZ.jpg)
 
-# [👆 TÓPICOS](#-tópicos)
+# [👆 TÓPICOS](#tópicos)
 
 # Presets
 

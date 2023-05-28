@@ -262,6 +262,8 @@ Baixa o plugin do saber
 
 ![Imgur](https://i.imgur.com/4XnLXNH.jpg)
 
+![Imgur](https://i.imgur.com/P8MCx4h.gifv)
+
 1. Coloca a tela de login
 2. Coloca o background
 3. Aplica o efeito Matiz e saturação  -> tirar saturação -> aplica no background

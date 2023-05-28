@@ -1,4 +1,6 @@
-# Lógica Matemática
+# Tópicos
+
+[Extensões e Dicas](#extensões-e-dicas)
 
 [Limpeza de cena](#limpeza-de-cena)
 
@@ -73,6 +75,16 @@
 # Extensões e Dicas
 
 Plugin do Pexels no photoshop - https://www.pexels.com/pro/
+
+Comprar packs - Superpackpro.com
+
+### Criar um banner no photoshop
+
+1 - Defino q tipo de banner será criado
+2 - Procuro inspirações no behance
+3 - Crio um documento no photoshop com as dimensões do banner do behance
+4 - Procuro elementos no freepik
+5 - Crio o banner
 
 ### Como criar postagens para **impulsionar** de forma **correta**
 
@@ -740,7 +752,7 @@ Configurações do pincel -> Dinâmica da forma-> tremulação do ângulo -> aum
 Configurações do pincel -> Dispersão -> disperção -> 136% (Deixa mais espalhado)
 Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade de pincel)
 
-# Método 1 
+## Método 1 
 
 1. Converter a imagem em objeto inteligente
 2. Filtro - dissolver - shift + ctrl + x
@@ -755,7 +767,7 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 10. Presiona alt e arrasta pra outra camada
 11. Clicka na corrente pra tirar o vínculo 
 
-# Método 2
+## Método 2
 
 1. Arquivo novo -> web -> 1920 x 1080
 2. Inseri a manápola
@@ -768,7 +780,7 @@ Configurações do pincel -> Dispersão -> Contar -> 3 (Multiplica a quantidade 
 9. Clicka na camada com a mascara branca -> Ferramenta Pincel -> Clicka sobre o dedo da manópola ou em áreas que deseja ser desinstegrado
 10. Clicka na camada com a máscara preta -> Ferramenta Pincel -> Cor Branca -> Revelar áreas acima do dedo
 
-# Método 3
+## Método 3
 
 1. Seleciona a imagem
 2. CTRL J
@@ -1068,6 +1080,53 @@ cor, corte, luz e dentre outras.
 6. Diminuir/Aumentar a opacidade
 
 7. Salvar como PSD e depois utilizar em outro arquivo como Objeto Inteligente
+
+
+### Recorte profissional
+
+1. Criar um demarcardor em volta do objeto a ser recortado com a ferramenta caneta ou seleção
+   
+2. Criar um fundo para o objeto
+   
+3. Ir em canais RGB e procurar o canal que tenha o melhor contraste, ou seja, destaque melhor as cores mais caras com as cores mais escuras (O ideal é o canal vermelho
+   
+4. Duplicar o canal escolhido
+   
+5. Resalte as cores com uma camada de ajuste no canal escolhido afim separar o branco do preto. Imagem -> Ajuste -> Níveis. Oque ficar escuro deve ficar mais escuro e o claro deve ficar mais claro. Posso deixar em 40 o Preto
+   
+6. Em Janela -> Informações. Passe o conta cotas entre a parte mais clara e a parte mais escura para ver a diferença do K, em seguida, nivele o branco para que fique se possível em 0 K
+   
+7. Com o canal selecionado, vai em demarcadores e pressione com o ctrl sobre o demarcador
+   
+8. Com o canal selecionado, Pressone alt+del ou ctrl+del. Deixe o objeto recortado em preto
+   
+9.  Tornar tudo oque for claro, totalmente claro. Desmarque a seleção, Selecione a ferramenta seleção retângular e selecione o objeto do cabelo pra baixo
+    
+10. Imagens -> Ajuste -> Inverter
+
+11. Clique no canal RGB
+
+12. Clique com o ctrol no canal que foi recortado
+
+13.  Retire o que foi selecionado em excesso com a ferramenta de seleção no modo subtrair ou somar
+  
+14.  Selecionar -> Inverter
+  
+15.  Ferramenta balde de tinta e a borda selecionada preto, aperte backspace até o bakckground do objeto ficar todo preto
+    
+16.  Clique em Selecionar -> Selecionar e mascarar 
+
+17.  Exibir -> Em camadas
+
+18.  Marca a opção de raio inteligente e aumente entre 8 e 10
+
+19.  Descontaminar cores -> Aumentar e diminuir conforme o cabelo
+    
+20. Demarcadores -> Clickar com o ctrl encima do demarcador -> Camadas -> Seleciono a original e marco a mascara
+
+Pressione com o ctrl sobre o demarcador de trabalho para ver a seleção em volta do objeto
+Pressione ctrl+d para voltar a visualização do demarcador de trabalho
+
 
 # [👆 TÓPICOS](#tópicos)
 

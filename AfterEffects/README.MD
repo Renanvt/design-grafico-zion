@@ -345,14 +345,14 @@ Baixa o plugin do saber
 ![Imgur](https://i.imgur.com/xhPr00b.jpg)
 
 
-### Instala o plugin **Rotobrush** para remover o fundo
+### Use o **Rotobrush** para remover o fundo
 
 CTRL - Regula o tamanho
 ALT - Adiciona ao corte
 
 ![Imgur](https://i.imgur.com/NgSyAER.png)
 
-1. Instalo o plugin o Rotobrush 
+1. Selecione o Rotobrush 
 2. Utilizo a ferramenta Roto Brush Tool no objeto sobe o primeiro frame do vídeo que ele continuará a se propagar frame por frame
 3. Pulo os frames e vou corrigindo um a um
 4. Depois de ter adicionado o Roto Brush Tool em cada frame eu aplico com o Freeze
@@ -371,10 +371,28 @@ Ative o **mottion blur** caso o objeto esteja se movendo
 Ative **descotaminar cores** se você tiver sangramento de fundo de cor de borda
 
 ### Aplica o efeito de Chroma Key
-Cria fundo
-Altera cor do fundo
-Aplica cria o Key light
+1. Aplique o Key light
+2. Altera o Scren Color para a cor mais iluminada do croma
+3. Mexe na cor para alterar um pouco
+4. Alterar o View para Scren Matte
+5. Diminui o clipe white até limpar o máximo possivel do branco
+6. Aumente o Screen Pre-blur
+7. Duplique o vídeo
+8. Tirar o efeito do croma key
+9. Troque o fosco de controle de nenhum pra alfa
+10. Pre-componha os dois
+11. Coloque o efeito Advanced spill Suppressor no objeto pre composto
+12. Adicione curvas, levels
+13. Aplique desfoque glauciano no fundo
 
+
+Deixar o personagem todo branco
+Tudo que ta preto fica transparente
+
+**Scren Gain** - Força do efeito, 
+**Clip back** - reforça o preto
+**Clipe white** - reforça o branco
+**Scren Pre blur** - Coloca um desfoque na ponta
 
 ### Refinar o Croma Key
 **Blur, Sharpeen** -> Mexe com o specto da luz 

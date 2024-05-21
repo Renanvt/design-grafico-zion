@@ -1,15 +1,43 @@
-# Dícas
+# Tópicos Teoria
 
-### Sites para trabalho com design gráfico
+[História da Arte e do Design Gráfico](https://www.evernote.com/shard/s496/sh/34eb6d13-41d3-d7a9-571a-f692c40523f6/SqotrFQGZlXuQP4VBPoYb5vqjBAGga8lHoZ5SsEv5FrCahdVsafxI-xj5Q)
 
-https://www.workana.com/
+[Identidade Visual](https://www.evernote.com/shard/s496/sh/121fd356-add1-2cc3-6d00-4ac2c454fba8/NH1mkcmp5QQejFoGXtTTsOnvP2APQg8WM-zo3KsppJlP7oy_FAWDGTeRUA)
 
-### Site para ver o tamanho de imagens para as mídias sociais
+[Layout e Composição](https://www.evernote.com/shard/s496/sh/bdd74ff9-6252-f9be-dde1-65659f77e7b0/FRJ3pZjkvrN9eFzCVVYRN2Dk0NxbQVo_HP3q7FP_XwrnbZtQP2bOHWir_w)
 
-https://reportei.com/tamanho-de-imagens-para-as-midias-sociais/
+[Cores, Tipografia e Imagens](https://www.evernote.com/shard/s496/sh/23e1f3eb-0a39-9296-cb06-0c94094853f2/fcEHRlRwtnXJvEsm2bRKbdUQgfTbyTCHZS9BOWqf6oQ2A9BZXe_Fiy0BZQ)
+
+[Ferramentas aplicadas ao Design Gráfico](https://www.evernote.com/shard/s496/sh/20038996-8018-7f1c-46a2-6e5458aec25d/9u7JACpdrBbVd68u3ilEi3AORJzLpri2cbE4BkpnBntGkcsTTsa1ToAIEQ)
+
+# Tópicos Teoria (Resumo)
+
+[História da Arte e do Design Gráfico](_HistóriaDaArteEDoDesignGráfico/README.md)
+
+[Identidade Visual](_IdentidadeVisual/README.md)
+
+[Layout e Composição](_LayoutEComposição/README.md)
+
+[Cores, Tipografia e Imagens](_CoresTipografiasImagens/README.md)
+
+[Ferramentas Aplicadas ao Design Gráfico](_FerramentasAplicadasAoDesignGráfico/README.md)
 
 
-# Tópicos
+# Tópicos Prática
+
+[Ilustrator](Illustrator/README.md)
+
+[Photoshop](Photoshop/README.md)
+
+[Indesign](Indesign/README.md)
+
+[Premiere](Premiere/README.md)
+
+[After Effects](AfterEffects/README.MD)
+
+
+# Dicas
+
 [Ilustator](#ilustrator-ai)
 
 [Photoshop](#photoshoppsd)
@@ -27,6 +55,16 @@ https://reportei.com/tamanho-de-imagens-para-as-midias-sociais/
 [Zbrush](#zbrush)
 
 [Media Enconder](#media-enconder)
+
+# Dicas
+
+### Sites para trabalho com design gráfico
+
+https://www.workana.com/
+
+### Site para ver o tamanho de imagens para as mídias sociais
+
+https://reportei.com/tamanho-de-imagens-para-as-midias-sociais/
 
 # Ilustrator (.AI)
 

@@ -25,7 +25,7 @@
 
 # Tópicos Prática
 
-[Ilustrator](src/(Illustrator/README.md)
+[Ilustrator](src/Illustrator/README.md)
 
 [Photoshop](src/Photoshop/README.md)
 

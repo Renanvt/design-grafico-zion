@@ -60,6 +60,8 @@ Preciso me inspirar nas referências e não plagiar, posso utilizar para isso o 
 ### Perfils de inspiração do behanced
 Elijah Andrade
 
+ [👆 TÓPICOS](#tópicos)
+
 # Thumbnails
 
 ### Precificação
@@ -81,6 +83,8 @@ Faturamento mês =  ~ R$ 5.760
 
 ![FonteFX](img/FX-Fonte-Super-herois.jpg)
 
+ [👆 TÓPICOS](#tópicos)
+
 # Criação de Logos
 
 Na maioria das vezes **250px** (largura) x **100px** (altura) são as dimensões ideias para uma página web
@@ -91,6 +95,8 @@ Para criar um logo pode utilizar as dimensões **36,86** Centímetros de largura
 
 ![Logo](img/Logo-Jonatan.png)
 ![PadronagemLogo](img/Padronagem-Logo.jpg.png)
+
+ [👆 TÓPICOS](#tópicos)
 
 # A Arte de Encantar Clientes
 
@@ -110,6 +116,8 @@ Usar GTV, Rels - pequenos segundos de vídeo
 
 Para meios digitais é até 150dpi de resolução, de preferência 72dpia
 
+ [👆 TÓPICOS](#tópicos)
+
 # Post Profissional para Instagram
 
 ![PostInstagram](img/PostProfissionalInstagram.jpg)
@@ -121,6 +129,8 @@ Para meios digitais é até 150dpi de resolução, de preferência 72dpia
 # Ferramenta Construtor de Formas
 
 ![FerramentaConstrutorDeFormas](img/FerramentaConstrutorDeFormasGirafa.jpg)
+
+ [👆 TÓPICOS](#tópicos)
 
 # Mockup
 
@@ -135,6 +145,7 @@ Dimona stampa para tudo
 ![Mockup2](img/EstampaKratos.jpg)
 ![Mockup3](img/EstampaMorcego.jpg)
 
+[👆 TÓPICOS](#tópicos)
 
 # Precificação
 
@@ -159,6 +170,8 @@ Associação dos design gráfico do Distrito Federal
 ![QuantoCobrar](img/Quanto-cobrar1.png)
 ![QuantoCobrar](img/Quanto-cobrar2.png)
 
+ [👆 TÓPICOS](#tópicos)
+
 # Flyer Digital
 
 ### Tamanho de um flyer
@@ -178,11 +191,16 @@ Marcas de aparagem
 
 ![FlyerAcademia](img/Flyer-Academia.jpg)
 
+ [👆 TÓPICOS](#tópicos)
+
 # Lucrando com convites
 
 ![LucrandoComConvites](img/LucrandoComConvites.png)
 
 ![LucrandoComConvites2](img/LucrandoComConvites-2.png)
+
+
+[👆 TÓPICOS](#tópicos)
 
 # Fechamento de Arquivo
 
@@ -225,6 +243,8 @@ Ou 0,5 em cada
 3. Marcas
 4. Marcas de aparagem
 
+ [👆 TÓPICOS](#tópicos)
+
 # Criação de capas criativas
 
 ### Ferramentas do Illustrator
@@ -260,6 +280,8 @@ Capa para e-book
 
 ![CapasDeLivroBehance](img/Capa-de-Livro-Behanced.png)
 
+ [👆 TÓPICOS](#tópicos)
+
 # Pattern
 
 Oque é pattern - simbolos que se repetem
@@ -279,6 +301,7 @@ Oque é pattern - simbolos que se repetem
 ![Padronagem](img/Padronagem-Logo.jpg.png)
 ![Padronagem2](img/Padronagem.jpg)
 
+ [👆 TÓPICOS](#tópicos)
 
 # Gigantografia
 
@@ -299,10 +322,14 @@ Até 5 projetos mensais
 ![Gigantografia](img/Gigantografia-1.png)
 ![Gigantografia2](img/Gigantografia-2.png)
 
+[👆 TÓPICOS](#tópicos)
+
 
 # Manual de Marca
 
 https://www.behance.net/gallery/134700007/Manual-de-Marca-Stay-Strong
+
+ [👆 TÓPICOS](#tópicos)
 
 # Criar um Pixel Art
 
@@ -380,6 +407,8 @@ Com os olhos eu coloco o vértice encima da linha do rosto  e dps subo os dois
 
 ![Sonic Pixel Art](img/Sonic-PixelART.jpg)
 
+[👆 TÓPICOS](#tópicos)
+
 # Projeção Áurea
 
 Entendendo a proporção áurea
@@ -413,3 +442,5 @@ Entendendo a proporção áurea
 CTRL + SHIF + F9
 
 ![Proporção Áurea](img/Proporção-Aurea.jpg)
+
+ [👆 TÓPICOS](#tópicos)
